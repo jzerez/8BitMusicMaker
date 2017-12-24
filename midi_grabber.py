@@ -3,9 +3,7 @@ from bs4 import BeautifulSoup
 import urllib.request as urllib2
 import os
 import subprocess
-import admin
-if not admin.isUserAdmin():
-        admin.runAsAdmin()
+
 
 home_url = "https://www.vgmusic.com/music/computer/amstrad/amstradcpc/"
 html = urllib2.urlopen(home_url)
@@ -22,4 +20,4 @@ for link in soup.find_all('a'):
             file_name = url_split[0] + ".mid"
             file_url = home_url + url
             urllib2.urlretrieve(file_url, file_name)
-            subprocess.call(["C:\\Users\jzerez\Documents\GitHub\8BitMusicMaker-Master\midicsv-1.1", file_name, csv_name])
+            subprocess.call(["C:\\Users\jzerez\Documents\GitHub\8BitMusicMaker\midicsv-1.1", file_name, csv_name])
