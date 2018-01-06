@@ -79,6 +79,7 @@ for files in os.listdir("Training-CSV"):
             if notes[note]:
                 char = unicode_offset + note
                 output.write(chr(char))
+                output.write(',')
         output.write('\n')
         time += step
 
