@@ -13,12 +13,12 @@ def output_row(row):
 
 #offset to put the unicode characters where i want them
 unicode_offset = 192
-
+output = open("input.txt", 'w', encoding = 'utf8')
 #look at each csv in the training folder
 for files in os.listdir("Training-CSV"):
     csv_file = open("Training-CSV/" + files)
     #output csv. Should change to one huge txt file
-    output = open("input.txt", 'w', encoding = 'utf8')
+
     csv_py = csv.reader(csv_file)
 
     array = []
@@ -41,28 +41,27 @@ for files in os.listdir("Training-CSV"):
             tempo = int(row[3])
         if row[2] == ' Header':
             pulses = int(row[5])
-    array = sorted(array, key = lambda line: line[1])
+    array = sorted(array, key = lambda line: line[0])
 
 
-    step = (pulses / (tempo / 1000000)) / 1000
+    step = (pulses / (tempo / 1000000)) / 20
     index = 0
     time = 0
 
-    print(step)
+    print(array[-1][0])
 
     #iterate the correct number of timestep times
-    #for time_step in range(round(int(array[-1][0]) / step) + 1):
-    for time_step in range(10000):
+    for time_step in range(round(int(array[-1][0]) / step) + 1):
         if array[index][0] <= time:
             dupes = 1
             try:
                 while array[index][0] == array[index + dupes][0]:
                     dupes += 1
             except:
-                print('last')
+                #print('last')
                 pass
             #if the current element has not been visited and is less than the current time
-            print(array[index])
+            #print(array[index])
             for i in range(dupes):
                 if not array[index + i][3]:
 
@@ -87,9 +86,6 @@ for files in os.listdir("Training-CSV"):
 
     output.write("NEWSONG\n")
     print(str(files) + " complete!")
-    break
-
-
 
     '''
     for i in range(10):
