@@ -11,9 +11,16 @@ def output_row(row):
 
     return string
 
+def octave(pitch):
+    while(pitch < 20):
+        pitch += 12
+    while(pitch > 109):
+        pitch -= 12
+    return pitch
+
 #offset to put the unicode characters where i want them
-unicode_offset = 192
-output = open("input.txt", 'w', encoding = 'utf8')
+ascii_offset = 15
+output = open("input.txt", 'w')
 #look at each csv in the training folder
 for files in os.listdir("Training-CSV"):
     csv_file = open("Training-CSV/" + files)
@@ -29,18 +36,22 @@ for files in os.listdir("Training-CSV"):
 
     for row in csv_py:
         if row[2] == ' Note_on_c' and int(row[5]) > 0:
-            array.append([int(row[1]), 'on', int(row[4]), False])
+            row[4] = octave(int(row[4]))
+            array.append([int(row[1]), 'on', row[4], False])
             #print(row[4] + ' On!')
         if row[2] == ' Note_on_c' and int(row[5]) == 0:
-            array.append([int(row[1]), 'off', int(row[4]), False])
+            row[4] = octave(int(row[4]))
+            array.append([int(row[1]), 'off', row[4], False])
             #print(row[4] + ' Off!')
         if row[2] == ' Note_off_c':
-            array.append([int(row[1]), 'off', int(row[4]), False])
+            row[4] = octave(int(row[4]))
+            array.append([int(row[1]), 'off', row[4], False])
             #print(row[4] + ' Off!')
         if row[2] == ' Tempo':
             tempo = int(row[3])
         if row[2] == ' Header':
             pulses = int(row[5])
+
     array = sorted(array, key = lambda line: line[0])
 
 
@@ -77,9 +88,8 @@ for files in os.listdir("Training-CSV"):
             index += dupes
         for note in notes:
             if notes[note]:
-                char = unicode_offset + note
+                char = ascii_offset + note
                 output.write(chr(char))
-                output.write(',')
         output.write('\n')
         time += step
 
