@@ -1,6 +1,9 @@
 import os
-import numpy as np
+import subprocess
 import csv
+
+
+prefix = 'acoustic_'
 
 txt_file = open("output.txt", "r")
 #output csv. Should change to one huge txt file
@@ -28,11 +31,11 @@ for song in songs:
         notes[pitch] = False
 
     #create csv name and write to file in folder midicsv-1.1
-    name = str(song_number) + '.csv'
-    output = open("midicsv-1.1/" + name, "w+")
+    name = "midicsv-1.1/" + prefix + str(song_number)
+    output = open(name + '.csv', "w+")
     #initialize csv writer object, writer
     writer = csv.writer(output)
-    offset = 0
+    time = 0
 
     #split song into lines (1/20th second intervals)
     lines = song.split('\n')
@@ -50,22 +53,27 @@ for song in songs:
 
     for line in lines:
         activated = []
+        shifted = 0
         for letter in line:
-            shifted = int(letter) - ascii_offset
+            shifted = ord(letter) - ascii_offset
             if not notes[shifted]:
                 notes[shifted] = True
                 writer.writerow([2, time, ' Note_on_c', 0, shifted, 100])
 
             activated.append(shifted)
-            for note in range(128):
-                if note is not in activated and notes[note]:
-                    notes[note] = False
-                    writer.writerow([2, time, ' Note_off_c', 0, shifted, 0])
 
+        for note in range(128):
+            if (note not in activated) and (notes[note]):
+                notes[note] = False
+                writer.writerow([2, time, ' Note_off_c', 0, note, 0])
         time += 20
 
     write_to_csv(2, time, ' End_track')
     csv_line = [0, 0, ' End_of_file']
     writer.writerow(csv_line)
+
     print("song number " + str(song_number) + " converted to csv successfully!")
     song_number += 1
+
+#for song in range(song_number):
+    #subprocess.call(["midicsv-1.1/csvmidi.exe", name + '.csv', name + '.mid'])
