@@ -5,6 +5,14 @@ import os
 import subprocess
 import sys
 
+'''
+Jonathan Zerez
+January 2018
+
+This script takes URLs from the command line, or as manual inputs and tries to
+scrape MIDI files from them, and convert said files into CSV files.
+'''
+
 if len(sys.argv) < 2:
     home_urls = ["http://www.midiworld.com/search/?q=dance",
                 "http://www.midiworld.com/search/2/?q=dance",
@@ -16,8 +24,8 @@ if len(sys.argv) < 2:
                 "http://www.midiworld.com/search/8/?q=dance"]
 else:
     home_urls = sys.argv[1:]
-print(home_urls)
-'''
+
+
 num_songs = 0
 #Sets basis URL
 for home_url in home_urls:
@@ -54,4 +62,3 @@ for home_url in home_urls:
                     os.rename(midi_name, midi_new_home)
 
 print(str(num_songs) + " songs downloaded!")
-'''

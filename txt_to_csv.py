@@ -2,8 +2,15 @@ import os
 import subprocess
 import csv
 
+'''
+Jonathan Zerez
+January 2018
 
-#prefix = 'dance_'
+This script takes a text file, output.txt, and converts it into a series of
+CSV files, ready to be converted back into MIDI
+'''
+
+
 prefix = 'song_'
 txt_file = open("output.txt", "r")
 #output csv. Should change to one huge txt file
@@ -52,28 +59,30 @@ for song in songs:
     writer.writerow([2, 0, ' Program_c', 0, 81])
 
     for line in lines:
+        #array to keep track of which notes are currently on
         activated = []
         shifted = 0
         for letter in line:
+            #convert from ascii to midi pitches
             shifted = ord(letter) - ascii_offset
+            #update dictionary notes given current commands
             if not notes[shifted]:
                 notes[shifted] = True
                 writer.writerow([2, time, ' Note_on_c', 0, shifted, 100])
 
             activated.append(shifted)
 
+        #write to the csv file given the dictionary of notes
         for note in range(128):
             if (note not in activated) and (notes[note]):
                 notes[note] = False
                 writer.writerow([2, time, ' Note_off_c', 0, note, 0])
         time += 20
 
+    #final, standardized lines to write to the csv.
     write_to_csv(2, time, ' End_track')
     csv_line = [0, 0, ' End_of_file']
     writer.writerow(csv_line)
 
     print("song number " + str(song_number) + " converted to csv successfully!")
     song_number += 1
-
-#for song in range(song_number):
-    #subprocess.call(["midicsv-1.1/csvmidi.exe", name + '.csv', name + '.mid'])
