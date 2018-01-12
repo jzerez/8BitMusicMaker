@@ -3,15 +3,21 @@ from bs4 import BeautifulSoup
 import urllib.request as urllib2
 import os
 import subprocess
+import sys
 
-home_urls = ["http://www.midiworld.com/search/?q=dance",
-            "http://www.midiworld.com/search/2/?q=dance",
-            "http://www.midiworld.com/search/3/?q=dance",
-            "http://www.midiworld.com/search/4/?q=dance",
-            "http://www.midiworld.com/search/5/?q=dance",
-            "http://www.midiworld.com/search/6/?q=dance",
-            "http://www.midiworld.com/search/7/?q=dance",
-            "http://www.midiworld.com/search/8/?q=dance"]
+if len(sys.argv) < 2:
+    home_urls = ["http://www.midiworld.com/search/?q=dance",
+                "http://www.midiworld.com/search/2/?q=dance",
+                "http://www.midiworld.com/search/3/?q=dance",
+                "http://www.midiworld.com/search/4/?q=dance",
+                "http://www.midiworld.com/search/5/?q=dance",
+                "http://www.midiworld.com/search/6/?q=dance",
+                "http://www.midiworld.com/search/7/?q=dance",
+                "http://www.midiworld.com/search/8/?q=dance"]
+else:
+    home_urls = sys.argv[1:]
+print(home_urls)
+'''
 num_songs = 0
 #Sets basis URL
 for home_url in home_urls:
@@ -29,7 +35,7 @@ for home_url in home_urls:
             if len(url.split('/')) > 3 and url.split("/")[3] == "download":
                 print(url)
                 num_songs += 1
-                
+
                 csv_name = url.split('/')[-1].split('.')[0] + ".csv"
                 csv_name = csv_name.lower()
                 midi_name = url.split('/')[-1].lower()
@@ -48,3 +54,4 @@ for home_url in home_urls:
                     os.rename(midi_name, midi_new_home)
 
 print(str(num_songs) + " songs downloaded!")
+'''

@@ -3,8 +3,8 @@ import subprocess
 import csv
 
 
-prefix = 'dance_'
-
+#prefix = 'dance_'
+prefix = 'song_'
 txt_file = open("output.txt", "r")
 #output csv. Should change to one huge txt file
 song_number = 0
@@ -49,7 +49,7 @@ for song in songs:
     write_to_csv(1, 0, command = ' End_track')
     write_to_csv(2, 0, command = ' Start_track')
     write_to_csv(2, 0, command = ' MIDI_port')
-    writer.writerow([2, 0, ' Program_c', 0, 24])
+    writer.writerow([2, 0, ' Program_c', 0, 81])
 
     for line in lines:
         activated = []
