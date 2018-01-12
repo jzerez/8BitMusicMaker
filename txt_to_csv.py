@@ -1,14 +1,25 @@
 import os
-import numpy as np
+import subprocess
 import csv
 
-txt_file = open("input.txt", "r")
+'''
+Jonathan Zerez
+January 2018
+
+This script takes a text file, output.txt, and converts it into a series of
+CSV files, ready to be converted back into MIDI
+'''
+
+
+prefix = 'song_'
+txt_file = open("output.txt", "r")
 #output csv. Should change to one huge txt file
 song_number = 0
 
 input_text = txt_file.read()
 songs = input_text.split('NEWSONG\n')
 csv_line = [0, 0, 0, 0, 0, 0]
+ascii_offset = 15
 
 def write_to_csv(track, time, command):
     if command == ' Start_track':
@@ -21,47 +32,57 @@ def write_to_csv(track, time, command):
         csv_line = [track, 0, command, 0]
 
 for song in songs:
-    name = str(song_number) + '.csv'
-    output = open("midicsv-1.1/" + name, "w+")
+    #initialize dict for pitches
+    notes = {}
+    for pitch in range(128):
+        notes[pitch] = False
+
+    #create csv name and write to file in folder midicsv-1.1
+    name = "midicsv-1.1/" + prefix + str(song_number)
+    output = open(name + '.csv', "w+")
+    #initialize csv writer object, writer
     writer = csv.writer(output)
-    offset = 0
+    time = 0
+
+    #split song into lines (1/20th second intervals)
     lines = song.split('\n')
-    num_tracks = lines[-2].split(',')[0]
-    csv_line = [0, 0, ' Header', 1, num_tracks, 120]
+
+    #write initial, static header information to the csv
+    csv_line = [0, 0, ' Header', 1, 2, 200]
     writer.writerow(csv_line)
     write_to_csv(track = 1, time = 0, command = ' Start_track')
-    csv_line = [1, 0, ' Tempo', 600000]
+    csv_line = [1, 0, ' Tempo', 500000]
     writer.writerow(csv_line)
+    write_to_csv(1, 0, command = ' End_track')
+    write_to_csv(2, 0, command = ' Start_track')
+    write_to_csv(2, 0, command = ' MIDI_port')
+    writer.writerow([2, 0, ' Program_c', 0, 81])
 
-    prev_command = [1, 0, None, None, None, None]
-    command = [None, None, None, None, None, None]
     for line in lines:
-        if len(line.split(',')) > 3:
-            command = line.split(',')
+        #array to keep track of which notes are currently on
+        activated = []
+        shifted = 0
+        for letter in line:
+            #convert from ascii to midi pitches
+            shifted = ord(letter) - ascii_offset
+            #update dictionary notes given current commands
+            if not notes[shifted]:
+                notes[shifted] = True
+                writer.writerow([2, time, ' Note_on_c', 0, shifted, 100])
 
-            if (int(command[0]) - offset) - int(prev_command[0]) > 1:
-                offset += 1
-            command[0] = int(command[0]) - offset
-            temp = command
-            #convert time from hex to decimal
-            command[1] = int(command[1], 16)
-            if len(command[2]) > 3:
-                write_to_csv(prev_command[0], prev_command[1], command = ' End_track')
-                write_to_csv(command[0], command[1], command = ' Start_track')
-                write_to_csv(command[0], command[1], command = ' MIDI_port')
-                command[2] = ' Program_c'
-                writer.writerow(command)
-            elif command[2] == 'On':
-                command[2] = ' Note_on_c'
-                writer.writerow(command)
-            elif command[2] == 'Of':
-                command[2] = ' Note_off_c'
-                writer.writerow(command)
-        prev_command = temp
+            activated.append(shifted)
 
+        #write to the csv file given the dictionary of notes
+        for note in range(128):
+            if (note not in activated) and (notes[note]):
+                notes[note] = False
+                writer.writerow([2, time, ' Note_off_c', 0, note, 0])
+        time += 20
 
-    write_to_csv(command[0], command[1], ' End_track')
+    #final, standardized lines to write to the csv.
+    write_to_csv(2, time, ' End_track')
     csv_line = [0, 0, ' End_of_file']
     writer.writerow(csv_line)
+
     print("song number " + str(song_number) + " converted to csv successfully!")
     song_number += 1

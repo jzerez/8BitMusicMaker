@@ -1,128 +1,94 @@
 import os
 import numpy as np
 import csv
+'''
+Jonathan Zerez
+January 2018
 
-def output_row(row):
-    string = ""
-    for element in row:
-        string += element + ','
-    string = string[:-1]
-    string += '\n'
+This script takes .CSV files and converts them into a large .txt file called
+input.txt, suitable for trainig a machine learning algorithm
+'''
 
-    return string
+#Make all incomming pitches limited to the range of a piano
+def octave(pitch):
+    while(pitch < 20):
+        pitch += 12
+    while(pitch > 109):
+        pitch -= 12
+    return pitch
 
-
-#look at each csv in the training folder
+#offset to put the ascii characters in a good range
+ascii_offset = 15
+output = open("input.txt", 'w')
 for files in os.listdir("Training-CSV"):
-    num_tracks = 0
-    #input csv
-    csv_file = open("Training-CSV/" + files)
-    #output csv. Should change to one huge txt file
-    output = open("input.txt", 'a')
+    if os.stat(files).st_size > 0:
+        #output csv. Should change to one huge txt file
+        csv_file = open("Training-CSV/" + files)
+        csv_py = csv.reader(csv_file)
 
-    csv_py = csv.reader(csv_file)
+        array = []
+        notes = {}
 
-    #valid shows whether an instrument is valid or not
-    valid = False
-    channel = -1
-    for row in csv_py:
-        if row[2] == ' Header':
-            #convert ticks per quater note to 120
-            time_conversion_head = 120 / int(row[5])
-        if row[2] == ' Tempo':
-            #convert the time to use 100 bpm
-            time_conversion_tempo = int(row[3]) / 600000
+        #dict for keeping track of which notes are on and when
+        for pitch in range(128):
+            notes[pitch] = False
 
-        if (row[2] == ' Program_c'):
-            #check and consolodate instruments based on groupings from wikipedia
-            instrument = int(row[4])
+        for row in csv_py:
+            if row[2] == ' Note_on_c' and int(row[5]) > 0:
+                row[4] = octave(int(row[4]))
+                array.append([int(row[1]), 'on', row[4], False])
+            if row[2] == ' Note_on_c' and int(row[5]) == 0:
+                row[4] = octave(int(row[4]))
+                array.append([int(row[1]), 'off', row[4], False])
+            if row[2] == ' Note_off_c':
+                row[4] = octave(int(row[4]))
+                array.append([int(row[1]), 'off', row[4], False])
+            if row[2] == ' Tempo':
+                tempo = int(row[3])
+            if row[2] == ' Header':
+                pulses = int(row[5])
 
-            valid = True
-            if instrument < 9:
-                row[4] = '5'
-                channel = 0
-            elif instrument < 17:
-                row[4] = '12'
-                channel = 1
-            elif instrument < 25:
-                row[4] = '18'
-                channel = 2
-            elif instrument < 33:
-                row[4] = '28'
-                channel = 3
-            elif instrument < 41:
-                row[4] = '39'
-                channel = 4
-            elif instrument < 49:
-                row[4] = '41'
-                channel = 5
-            elif instrument < 57:
-                row[4] = '56'
-                channel = 6
-            elif instrument < 65:
-                row[4] = '63'
-                channel = 7
-            elif instrument < 73:
-                row[4] = '66'
-                channel = 8
-            elif instrument < 81:
-                row[4] = '80'
-                channel = 9
-            elif instrument < 89:
-                row[4] = '81'
-                channel = 10
-            elif instrument < 97:
-                row[4] = '90'
-                channel = 11
-            elif instrument < 105:
-                row[4] = '99'
-                channel = 12
-            elif instrument < 113:
-                valid = False
-                channel = -1
-            elif instrument < 121:
-                row[4] = '119'
-                channel = 13
-            else:
-                valid = False
-                channel = -1
+        #sort the array by time
+        array = sorted(array, key = lambda line: line[0])
 
-            #Need to do: write out to the txt or csv file
-            if valid:
-                num_tracks += 1
-                row[0] = str(1 + num_tracks)
-                row[1] = str(hex(int((int(row[1]) * time_conversion_tempo * time_conversion_head))).split('x')[-1])
-                row[2] = 'Prog'
-                row[3] = str(channel)
-                row[4] = str(int(row[4]))
-                output.write(output_row(row))
+        #create an absolute 1/20th second time step based on tempo and bitrate
+        step = (pulses / (tempo / 1000000)) / 20
+        index = 0
+        time = 0
 
-        #Need to do: write out to txt file
-        if(row[2] == ' Note_on_c' and valid):
-            row[0] = str(1 + num_tracks)
-            row[1] = str(hex(int((int(row[1]) * time_conversion_tempo * time_conversion_head))).split('x')[-1])
-            row[2] = 'On'
-            row[3] = str(channel)
-            row[4] = str(int(row[4]))
-            row[5] = str(int(row[5]))
-            output.write(output_row(row))
+        print(array[-1][0])
 
+        #iterate the correct number of times given the # of pulses in a timestep
+        for time_step in range(round(int(array[-1][0]) / step) + 1):
+            #find how many events are occuring at a given time
+            if array[index][0] <= time:
+                events = 1
+                try:
+                    while array[index][0] == array[index + events][0]:
+                        events += 1
+                except:
+                    pass
 
-        if(row[2] == ' Note_off_c' and valid):
-            row[0] = str(1 + num_tracks)
-            row[1] = str(hex(int((int(row[1]) * time_conversion_tempo * time_conversion_head))).split('x')[-1])
-            row[2] = 'Of'
-            row[3] = str(channel)
-            row[4] = str(int(row[4]))
-            row[5] = str(int(row[5]))
-            output.write(output_row(row))
-            #writer.writerow(row)
-    print(str(files) + " complete!")
-    output.write("NEWSONG\n")
+                for i in range(events):
+                    #ensure each event has not yet been visited
+                    if not array[index + i][3]:
+                        #Based on the command, update the bool value for that
+                        #pitch in the dictionary
+                        if array[index + i][1] == 'on':
+                            notes[array[index + i][2]] = True
+                            array[index + i][3] = True
+                        else:
+                            notes[array[index + i][2]] = False
+                            array[index + i][3] = True
+                index += events
+            #write to the .txt file given current state of dictionary
+            for note in notes:
+                if notes[note]:
+                    char = ascii_offset + note
+                    output.write(chr(char))
+            output.write('\n')
+            #proceed to the next unit of time
+            time += step
 
-
-    '''
-    for i in range(10):
-        print(csv_py[i])
-    #print(csv_py)
-    '''
+        output.write("NEWSONG\n")
+        print(str(files) + " complete!")

@@ -3,8 +3,30 @@ from bs4 import BeautifulSoup
 import urllib.request as urllib2
 import os
 import subprocess
+import sys
 
-home_urls = ["https://www.vgmusic.com/music/console/nintendo/snes/","https://www.vgmusic.com/music/console/nintendo/gameboy/"]
+'''
+Jonathan Zerez
+January 2018
+
+This script takes URLs from the command line, or as manual inputs and tries to
+scrape MIDI files from them, and convert said files into CSV files.
+'''
+
+if len(sys.argv) < 2:
+    home_urls = ["http://www.midiworld.com/search/?q=dance",
+                "http://www.midiworld.com/search/2/?q=dance",
+                "http://www.midiworld.com/search/3/?q=dance",
+                "http://www.midiworld.com/search/4/?q=dance",
+                "http://www.midiworld.com/search/5/?q=dance",
+                "http://www.midiworld.com/search/6/?q=dance",
+                "http://www.midiworld.com/search/7/?q=dance",
+                "http://www.midiworld.com/search/8/?q=dance"]
+else:
+    home_urls = sys.argv[1:]
+
+
+num_songs = 0
 #Sets basis URL
 for home_url in home_urls:
     html = urllib2.urlopen(home_url)
@@ -14,15 +36,18 @@ for home_url in home_urls:
     #finds all the links
     for link in soup.find_all('a'):
         url = link.get('href')
-        #print(url)
+
         if url != None:
-            url_split = url.split(".")
+
             #find all the midi files
-            if len(url_split) > 1 and url_split[1] == "mid":
-                csv_name = url_split[0] + ".csv"
+            if len(url.split('/')) > 3 and url.split("/")[3] == "download":
+                print(url)
+                num_songs += 1
+
+                csv_name = url.split('/')[-1].split('.')[0] + ".csv"
                 csv_name = csv_name.lower()
-                midi_name = url.lower()
-                file_url = home_url + url
+                midi_name = url.split('/')[-1].lower()
+                file_url = url
                 #if the file isn't already in the training data
                 if (csv_name not in os.listdir("Training-CSV")) :
                     print(url)
@@ -35,3 +60,5 @@ for home_url in home_urls:
                     midi_new_home = "Training-MIDI/" + midi_name
                     os.rename(csv_name, csv_new_home)
                     os.rename(midi_name, midi_new_home)
+
+print(str(num_songs) + " songs downloaded!")
