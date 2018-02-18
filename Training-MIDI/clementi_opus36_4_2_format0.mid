@@ -1,0 +1,494 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/DTD/html4-transitional.dtd">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="author" content="Bernd Krueger">
+<meta name="description" content="
+		Classical piano MIDI sequences by Clementi for free download
+		">
+<meta name="keywords" content="
+		classical midi files, piano music, music, piano, midi,  Clementi, free, download
+		">
+<title>Classical Piano Midi Page
+-
+Clementi</title>
+<style type="text/css">
+body {font-family:Verdana; color:black; background:white; font-size:101%;}
+p {font-size:80%;}
+h1 { font-size:120%;}
+h1.head { font-size:104%; font-weight:normal; color:white;                                    background-color:#0088BB; margin-bottom:0px; margin-top:0px; width: 100%;
+          border: none; text-align: center; padding:1px;}
+h2 { font-size:100%;color:#999999;}
+h3 { font-size:84%; }
+table.midi { font-size:80%; width: 100%; }
+tr.midi {background-color:#EEEEEE;}
+th.midi {padding-left: 5px; padding-right: 5px; }
+td.midi {padding-left: 5px; padding-right: 5px; valign="top"; }
+.menu {font-size: 80%; }
+.top {font-size: 80%; }
+.navileft {font-size: 80%; margin-left:10px; margin-right:10px; padding:5px;   background-color:#EEEEEE; border:none; }
+.navitop {font-size: 80%; }
+.signatur {font-size: 70%; }
+.content {font-size:80%;}
+
+/* Navigation */
+a.navi:link {text-decoration:none; color:black; background-color:transparent}
+a.navi:visited {text-decoration:none; color:black; background-color:transparent}
+a.navi:hover {text-decoration:underline; color:#0000FF; background-color:transparent}
+a.navi:active {text-decoration:underline; color:#900B09; background-color:transparent}
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+/* verhindert, daß die Seite in einem fremden Frame geladen wird */
+if(top!=self)
+  top.location=self.location;
+//-->
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+<body>
+No connection
+Selection of database failed
+query failed<table cellpadding="5" width="100%" cellspacing="0"><tr><td></td><td><div align="center"><img src="graphik/pianomid.jpg" width="318" height="60" border="0" alt="Classical Piano Midi Page"></div><br>
+</td></tr><tr><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><a href="midi_files.htm" class="
+   navi
+   " title="MIDI Files"><strong>MIDI Files</strong></a><br>
+<a href="albeniz.htm" class="
+   navi
+   " title="Albéniz Midi and Audio Files">Albéniz</a><br>
+<a href="bach.htm" class="
+   navi
+   " title="Bach Midi and Audio Files">Bach</a><br>
+<a href="balak.htm" class="
+   navi
+   " title="Balakirew Midi and Audio Files">Balakirew</a><br>
+<a href="beeth.htm" class="
+   navi
+   " title="Beethoven Midi and Audio Files">Beethoven</a><br>
+<a href="borodin.htm" class="
+   navi
+   " title="Borodin Midi and Audio Files">Borodin</a><br>
+<a href="brahms.htm" class="
+   navi
+   " title="Brahms Midi and Audio Files">Brahms</a><br>
+<a href="burgm.htm" class="
+   navi
+   " title="Burgmueller Midi and Audio Files">Burgmueller</a><br>
+<a href="chopin.htm" class="
+   navi
+   " title="Chopin Midi and Audio Files">Chopin</a><br>
+<a href="clementi.htm" class="
+   navi
+   " title="Clementi Midi and Audio Files">Clementi</a><br>
+<a href="debuss.htm" class="
+   navi
+   " title="Debussy Midi and Audio Files">Debussy</a><br>
+<a href="godowsky.htm" class="
+   navi
+   " title="Godowsky Midi and Audio Files">Godowsky</a><br>
+<a href="grana.htm" class="
+   navi
+   " title="Granados Midi and Audio Files">Granados</a><br>
+<a href="grieg.htm" class="
+   navi
+   " title="Grieg Midi and Audio Files">Grieg</a><br>
+<a href="haydn.htm" class="
+   navi
+   " title="Haydn Midi and Audio Files">Haydn</a><br>
+<a href="liszt.htm" class="
+   navi
+   " title="Liszt Midi and Audio Files">Liszt</a><br>
+<a href="mendelssohn.htm" class="
+   navi
+   " title="Mendelssohn Midi and Audio Files">Mendelssohn</a><br>
+<a href="moszkowski.htm" class="
+   navi
+   " title="Moszkowski Midi and Audio Files">Moszkowski</a><br>
+<a href="mozart.htm" class="
+   navi
+   " title="Mozart Midi and Audio Files">Mozart</a><br>
+<a href="muss.htm" class="
+   navi
+   " title="Mussorgsky Midi and Audio Files">Mussorgsky</a><br>
+<a href="rach.htm" class="
+   navi
+   " title="Rachmaninov Midi and Audio Files">Rachmaninov</a><br>
+<a href="ravel.htm" class="
+   navi
+   " title="Ravel Midi and Audio Files">Ravel</a><br>
+<a href="schub.htm" class="
+   navi
+   " title="Schubert Midi and Audio Files">Schubert</a><br>
+<a href="schum.htm" class="
+   navi
+   " title="Schumann Midi and Audio Files">Schumann</a><br>
+<a href="sinding.htm" class="
+   navi
+   " title="Sinding Midi and Audio Files">Sinding</a><br>
+<a href="tschai.htm" class="
+   navi
+   " title="Tchaikovsky Midi and Audio Files">Tchaikovsky</a><br>
+<br><a href="other.htm" class="
+   navi
+   " title="Audio formats"><strong>Audio formats</strong></a><br>
+<br><a href="about.htm" class="
+   navi
+   " title="About"><strong>About</strong></a><br><br></div><br><div style="text-align: center"><form method="post" action="http://piano-midi.de/cgi-bin/search.cgi" onsubmit="searchword()"><input type="text" name="Terms" size="10" value=""><br><input type="submit" value=" Search " size="1" style="font-family: arial; font-size:11px;"></form></div></td><td valign="top"><a name="clementi"></a><h1 class="head">Clementi</h1>
+<div class="navitop"><a href="midicoll.htm">Main Page</a>
+ &gt;
+<a href="midi_files.htm">MIDI files</a>
+ &gt;
+Clementi</div><p>
+The standard format is MIDI Format 1, in which each channel has its own track. In format 0  all channels are integrated in one track, this is necessary for some keyboards. This page in addition contains audio formats, scores or videos with visualisation of the scores during playing the music, if available.
+</p><h2>Sonatina Opus 36 No. 1, Opus 36
+(1797)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_1_1.mid">1. movement</a></td>
+<td class="midi">Spiritoso</td>
+<td class="midi" nowrap>1:31</td>
+<td class="midi" nowrap>2011-03-01</td>
+<td class="midi" nowrap>12 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_1_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=67a83d35e20e84c1f8dfdc280c5bf730&amp;file=clementi_opus36_1_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_1_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_1_2.mid">2. movement</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>1:08</td>
+<td class="midi" nowrap>2011-03-01</td>
+<td class="midi" nowrap>5 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_1_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=ca997ea5445ba714efb04f25525d813b&amp;file=clementi_opus36_1_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_1_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_1_3.mid">3. movement</a></td>
+<td class="midi">Vivace</td>
+<td class="midi" nowrap>0:56</td>
+<td class="midi" nowrap>2011-03-01</td>
+<td class="midi" nowrap>6 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_1_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=bf76825448fa7b66fb7736915035cecf&amp;file=clementi_opus36_1_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_1_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonatina Opus 36 No. 2, Opus 36
+(1797)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_2_1.mid">1. movement</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>2:00</td>
+<td class="midi" nowrap>2011-04-01</td>
+<td class="midi" nowrap>15 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_2_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=a1d129affcc7b682b6b722dbc78eb0ad&amp;file=clementi_opus36_2_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_2_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_2_2.mid">2. movement</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>1:06</td>
+<td class="midi" nowrap>2011-04-01</td>
+<td class="midi" nowrap>4 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_2_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=6204f8435d6c0a048a29b9e6b2c8fd27&amp;file=clementi_opus36_2_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_2_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_2_3.mid">3. movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>1:34</td>
+<td class="midi" nowrap>2011-04-01</td>
+<td class="midi" nowrap>10 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_2_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=aa1ab760e7752d563136d7e0443f2501&amp;file=clementi_opus36_2_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_2_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonatina Opus 36 No. 3, Opus 36
+(1797)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_3_1.mid">1. movement</a></td>
+<td class="midi">Spiritoso</td>
+<td class="midi" nowrap>2:54</td>
+<td class="midi" nowrap>2011-05-01</td>
+<td class="midi" nowrap>18 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_3_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=0f94622639fafbd5860916c9038a96ed&amp;file=clementi_opus36_3_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_3_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_3_2.mid">2. movement</a></td>
+<td class="midi">Un poco adagio</td>
+<td class="midi" nowrap>1:28</td>
+<td class="midi" nowrap>2011-05-01</td>
+<td class="midi" nowrap>4 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_3_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=f68846694b2b04d485a3eb8cec7f89a8&amp;file=clementi_opus36_3_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_3_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_3_3.mid">3. movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>1:28</td>
+<td class="midi" nowrap>2011-05-01</td>
+<td class="midi" nowrap>9 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_3_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=e40235f073aeed235f31d3d6b737689d&amp;file=clementi_opus36_3_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_3_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonatina Opus 36 No. 4, Opus 36
+(1797)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_4_1.mid">1. movement</a></td>
+<td class="midi">Con spirito</td>
+<td class="midi" nowrap>3:19</td>
+<td class="midi" nowrap>2012-02-01</td>
+<td class="midi" nowrap>18 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_4_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=077a6c3828daf7b1897de5d99ff78b34&amp;file=clementi_opus36_4_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_4_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_4_2.mid">2. movement</a></td>
+<td class="midi">Andante con espressione</td>
+<td class="midi" nowrap>1:45</td>
+<td class="midi" nowrap>2012-02-01</td>
+<td class="midi" nowrap>6 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_4_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=e8013bae7798c15b5f7e65bcc8190cac&amp;file=clementi_opus36_4_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_4_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_4_3.mid">3. movement</a></td>
+<td class="midi">Rondo. Allegro vivace</td>
+<td class="midi" nowrap>1:48</td>
+<td class="midi" nowrap>2012-02-01</td>
+<td class="midi" nowrap>6 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_4_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=90d0a700852378409b9e56d689c9e308&amp;file=clementi_opus36_4_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_4_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonatina Opus 36 No. 5, Opus 36
+(1797)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_5_1.mid">1. movement</a></td>
+<td class="midi">Presto</td>
+<td class="midi" nowrap>4:55</td>
+<td class="midi" nowrap>2011-06-13</td>
+<td class="midi" nowrap>26 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_5_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=8b90cfb35073eaf0fd8c9d19f56d7fe5&amp;file=clementi_opus36_5_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_5_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_5_2.mid">2. movement</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>4:55</td>
+<td class="midi" nowrap>2011-06-13</td>
+<td class="midi" nowrap>8 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_5_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=131f329074eefd5bbe0a62f5d4ce6394&amp;file=clementi_opus36_5_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_5_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_5_3.mid">3. movement</a></td>
+<td class="midi">Rondo. Allegro di molto</td>
+<td class="midi" nowrap>2:56</td>
+<td class="midi" nowrap>2011-06-13</td>
+<td class="midi" nowrap>16 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_5_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=1b2b3aaeccde30dfa9c5a74b65da7514&amp;file=clementi_opus36_5_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_5_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonatina Opus 36 No. 6, Opus 36
+(1797)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_6_1.mid">1. movement</a></td>
+<td class="midi">Allegro con spirito</td>
+<td class="midi" nowrap>5:21</td>
+<td class="midi" nowrap>2011-07-03</td>
+<td class="midi" nowrap>32 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_6_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=3ee6fce073948f79c5473f43a1f05018&amp;file=clementi_opus36_6_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_6_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/clementi/clementi_opus36_6_2.mid">2. movement</a></td>
+<td class="midi">Rondo. Allegretto spiritoso.</td>
+<td class="midi" nowrap>2:17</td>
+<td class="midi" nowrap>2011-07-03</td>
+<td class="midi" nowrap>15 KB</td>
+<td class="midi"><a class="navi" href="midis/clementi/clementi_opus36_6_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=d4c54bf1e97449b145a45bbf90e93382&amp;file=clementi_opus36_6_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/clementi/clementi_opus36_6_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><p><a href="midisearch.php">Search for MIDI files</a><br>
+</p>
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/deed.en"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png"></a>
+<br>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+<license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/de/"/>
+</Work>
+</rdf:RDF>
+-->
+<br><br><hr><div class="signatur"><a href="midicoll.htm">Main page</a>
+|
+<a href="news.htm">News</a>
+|
+<a href="contact.htm">Contact</a>
+|
+<a href="guests.htm">Guestbook</a>
+|
+<a href="links.htm">Links</a>
+|
+<a href="search.htm">Search</a>
+|
+<a href="indeks.htm">Index</a>
+|
+<a href="sitemap.htm">Sitemap</a><br><br>Copyright © 1996-2016 by Bernd Krueger<br>
+
+Home:
+<a href="http://www.piano-midi.de">http://www.piano-midi.de</a><br></div>
+
+
+No connection
+Selection of database failed
+insert failed
+
+</td><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><strong>
+   Other languages
+ </strong><a href="clementi_d.htm" class="
+   navi
+   ">
+  Deutsch
+ </a><br><a href="clementi_es.htm" class="
+   navi
+   ">
+  Español
+ </a><br><a href="clementi_fr.htm" class="
+   navi
+   ">
+  Français
+ </a><br>---------<br><br><a href="impressum.htm" class="
+   navi
+   ">Imprint</a><br><a href="copy.htm" class="
+   navi
+   ">Copyright</a><br><br></div><br><div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-2741754398486474";
+google_ad_width = 125;
+google_ad_height = 125;
+google_ad_format = "125x125_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+</td></tr></table></body></html>

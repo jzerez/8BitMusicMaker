@@ -1,0 +1,559 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/DTD/html4-transitional.dtd">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="author" content="Bernd Krueger">
+<meta name="description" content="
+		Classical piano MIDI sequences by Mozart for free download
+		">
+<meta name="keywords" content="
+		classical midi files, piano music, music, piano, midi, Mozart, piano sonata, kv 330, kv 333, free, download
+		">
+<title>Classical Piano Midi Page
+-
+Mozart</title>
+<style type="text/css">
+body {font-family:Verdana; color:black; background:white; font-size:101%;}
+p {font-size:80%;}
+h1 { font-size:120%;}
+h1.head { font-size:104%; font-weight:normal; color:white;                                    background-color:#0088BB; margin-bottom:0px; margin-top:0px; width: 100%;
+          border: none; text-align: center; padding:1px;}
+h2 { font-size:100%;color:#999999;}
+h3 { font-size:84%; }
+table.midi { font-size:80%; width: 100%; }
+tr.midi {background-color:#EEEEEE;}
+th.midi {padding-left: 5px; padding-right: 5px; }
+td.midi {padding-left: 5px; padding-right: 5px; valign="top"; }
+.menu {font-size: 80%; }
+.top {font-size: 80%; }
+.navileft {font-size: 80%; margin-left:10px; margin-right:10px; padding:5px;   background-color:#EEEEEE; border:none; }
+.navitop {font-size: 80%; }
+.signatur {font-size: 70%; }
+.content {font-size:80%;}
+
+/* Navigation */
+a.navi:link {text-decoration:none; color:black; background-color:transparent}
+a.navi:visited {text-decoration:none; color:black; background-color:transparent}
+a.navi:hover {text-decoration:underline; color:#0000FF; background-color:transparent}
+a.navi:active {text-decoration:underline; color:#900B09; background-color:transparent}
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+/* verhindert, daß die Seite in einem fremden Frame geladen wird */
+if(top!=self)
+  top.location=self.location;
+//-->
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+<body>
+No connection
+Selection of database failed
+query failed<table cellpadding="5" width="100%" cellspacing="0"><tr><td></td><td><div align="center"><img src="graphik/pianomid.jpg" width="318" height="60" border="0" alt="Classical Piano Midi Page"></div><br>
+</td></tr><tr><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><a href="midi_files.htm" class="
+   navi
+   " title="MIDI Files"><strong>MIDI Files</strong></a><br>
+<a href="albeniz.htm" class="
+   navi
+   " title="Albéniz Midi and Audio Files">Albéniz</a><br>
+<a href="bach.htm" class="
+   navi
+   " title="Bach Midi and Audio Files">Bach</a><br>
+<a href="balak.htm" class="
+   navi
+   " title="Balakirew Midi and Audio Files">Balakirew</a><br>
+<a href="beeth.htm" class="
+   navi
+   " title="Beethoven Midi and Audio Files">Beethoven</a><br>
+<a href="borodin.htm" class="
+   navi
+   " title="Borodin Midi and Audio Files">Borodin</a><br>
+<a href="brahms.htm" class="
+   navi
+   " title="Brahms Midi and Audio Files">Brahms</a><br>
+<a href="burgm.htm" class="
+   navi
+   " title="Burgmueller Midi and Audio Files">Burgmueller</a><br>
+<a href="chopin.htm" class="
+   navi
+   " title="Chopin Midi and Audio Files">Chopin</a><br>
+<a href="clementi.htm" class="
+   navi
+   " title="Clementi Midi and Audio Files">Clementi</a><br>
+<a href="debuss.htm" class="
+   navi
+   " title="Debussy Midi and Audio Files">Debussy</a><br>
+<a href="godowsky.htm" class="
+   navi
+   " title="Godowsky Midi and Audio Files">Godowsky</a><br>
+<a href="grana.htm" class="
+   navi
+   " title="Granados Midi and Audio Files">Granados</a><br>
+<a href="grieg.htm" class="
+   navi
+   " title="Grieg Midi and Audio Files">Grieg</a><br>
+<a href="haydn.htm" class="
+   navi
+   " title="Haydn Midi and Audio Files">Haydn</a><br>
+<a href="liszt.htm" class="
+   navi
+   " title="Liszt Midi and Audio Files">Liszt</a><br>
+<a href="mendelssohn.htm" class="
+   navi
+   " title="Mendelssohn Midi and Audio Files">Mendelssohn</a><br>
+<a href="moszkowski.htm" class="
+   navi
+   " title="Moszkowski Midi and Audio Files">Moszkowski</a><br>
+<a href="mozart.htm" class="
+   navi
+   " title="Mozart Midi and Audio Files">Mozart</a><br>
+<a href="muss.htm" class="
+   navi
+   " title="Mussorgsky Midi and Audio Files">Mussorgsky</a><br>
+<a href="rach.htm" class="
+   navi
+   " title="Rachmaninov Midi and Audio Files">Rachmaninov</a><br>
+<a href="ravel.htm" class="
+   navi
+   " title="Ravel Midi and Audio Files">Ravel</a><br>
+<a href="schub.htm" class="
+   navi
+   " title="Schubert Midi and Audio Files">Schubert</a><br>
+<a href="schum.htm" class="
+   navi
+   " title="Schumann Midi and Audio Files">Schumann</a><br>
+<a href="sinding.htm" class="
+   navi
+   " title="Sinding Midi and Audio Files">Sinding</a><br>
+<a href="tschai.htm" class="
+   navi
+   " title="Tchaikovsky Midi and Audio Files">Tchaikovsky</a><br>
+<br><a href="other.htm" class="
+   navi
+   " title="Audio formats"><strong>Audio formats</strong></a><br>
+<br><a href="about.htm" class="
+   navi
+   " title="About"><strong>About</strong></a><br><br></div><br><div style="text-align: center"><form method="post" action="http://piano-midi.de/cgi-bin/search.cgi" onsubmit="searchword()"><input type="text" name="Terms" size="10" value=""><br><input type="submit" value=" Search " size="1" style="font-family: arial; font-size:11px;"></form></div></td><td valign="top"><a name="mozart"></a><h1 class="head">Mozart</h1>
+<div class="navitop"><a href="midicoll.htm">Main Page</a>
+ &gt;
+<a href="midi_files.htm">MIDI files</a>
+ &gt;
+Mozart</div><p>
+The standard format is MIDI Format 1, in which each channel has its own track. In format 0  all channels are integrated in one track, this is necessary for some keyboards. This page in addition contains audio formats, scores or videos with visualisation of the scores during playing the music, if available.
+</p><h2>Sonata No. 8 D major, KV 311
+(1777)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_311_1.mid">1. Movement</a></td>
+<td class="midi">Allegro con spirito</td>
+<td class="midi" nowrap>4:19</td>
+<td class="midi" nowrap>2013-06-05</td>
+<td class="midi" nowrap>29 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_311_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=8ec742b646e5c917c3092082db3c33a1&amp;file=mz_311_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_311_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_311_2.mid">2. Movement</a></td>
+<td class="midi">Andantino con espressione</td>
+<td class="midi" nowrap>4:39</td>
+<td class="midi" nowrap>2013-06-06</td>
+<td class="midi" nowrap>16 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_311_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=8f9daa07997c18ae83f335ed135cd0d5&amp;file=mz_311_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_311_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_311_3.mid">3. Movement</a></td>
+<td class="midi">Rondo Allegro</td>
+<td class="midi" nowrap>6:05</td>
+<td class="midi" nowrap>2013-06-09</td>
+<td class="midi" nowrap>35 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_311_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=de03f0d5945852401d4d5d39815cb097&amp;file=mz_311_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_311_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonata No. 10 C major, KV 330
+(1783)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_330_1.mid">1. Movement</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>8:58</td>
+<td class="midi" nowrap>2013-06-16</td>
+<td class="midi" nowrap>41 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_330_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=fa9969108f7bad94afc9f289cf49aab8&amp;file=mz_330_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_330_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_330_2.mid">2. Movement</a></td>
+<td class="midi">Andante cantabile</td>
+<td class="midi" nowrap>6:36</td>
+<td class="midi" nowrap>2013-06-20</td>
+<td class="midi" nowrap>18 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_330_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=39be4bb10c6b504338c502aa2c34a0f0&amp;file=mz_330_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_330_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_330_3.mid">3. Movement</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>8:03</td>
+<td class="midi" nowrap>2013-06-24</td>
+<td class="midi" nowrap>39 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_330_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=9497701c78c3ba2f13ea044179b1bd6f&amp;file=mz_330_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_330_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonata No. 11 A major
+(Alla Turca)
+, KV 331
+(1783)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_331_1.mid">1. Movement</a></td>
+<td class="midi">Andante grazioso</td>
+<td class="midi" nowrap>13:52</td>
+<td class="midi" nowrap>2013-07-06</td>
+<td class="midi" nowrap>60 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_331_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=52bf0309fd5b53d8d2431573cfd3bb4d&amp;file=mz_331_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_331_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_331_2.mid">2. Movement</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>6:05</td>
+<td class="midi" nowrap>2013-07-13</td>
+<td class="midi" nowrap>31 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_331_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=d0653f3f5d75f1d5c5d638458afd8b8d&amp;file=mz_331_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_331_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_331_3.mid">3. Movement - Alla Turca</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>3:10</td>
+<td class="midi" nowrap>2013-07-15</td>
+<td class="midi" nowrap>26 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_331_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=8bb574bbe3c6ab2d8890a4bdbcd0cc78&amp;file=mz_331_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_331_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonata No. 12 F major, KV 332
+(1783)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_332_1.mid">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>9:31</td>
+<td class="midi" nowrap>2013-07-22</td>
+<td class="midi" nowrap>51 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_332_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=5ef95e08bddda0910855668ba41c03dd&amp;file=mz_332_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_332_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_332_2.mid">2. Movement</a></td>
+<td class="midi">Adagio</td>
+<td class="midi" nowrap>4:24</td>
+<td class="midi" nowrap>2013-07-25</td>
+<td class="midi" nowrap>15 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_332_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=16f133a7ba73dbbe1a182ecb99049c97&amp;file=mz_332_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_332_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_332_3.mid">3. Movement</a></td>
+<td class="midi">Assai allegro</td>
+<td class="midi" nowrap>9:50</td>
+<td class="midi" nowrap>2013-07-28</td>
+<td class="midi" nowrap>57 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_332_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=53aecd2279040730c7f42d2ace19ff2a&amp;file=mz_332_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_332_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonata No. 13 Bb major, KV 333
+(1783)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_333_1.mid">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>10:30</td>
+<td class="midi" nowrap>2013-09-04</td>
+<td class="midi" nowrap>51 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_333_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=0c0c9bacccf8218dc23e2e5fa112035b&amp;file=mz_333_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_333_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_333_2.mid">2. Movement</a></td>
+<td class="midi">Andante cantabile</td>
+<td class="midi" nowrap>8:43</td>
+<td class="midi" nowrap>2013-09-11</td>
+<td class="midi" nowrap>27 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_333_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=52a4495741431620323783931858309b&amp;file=mz_333_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_333_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_333_3.mid">3. Movement</a></td>
+<td class="midi">Allegretto grazioso</td>
+<td class="midi" nowrap>5:48</td>
+<td class="midi" nowrap>2013-09-17</td>
+<td class="midi" nowrap>34 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_333_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=5573a231b22fc41dca0c4c4b0c9ab168&amp;file=mz_333_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_333_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonata No. 16 C major
+(Sonata facile)
+, KV 545
+(1788)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_545_1.mid">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>4:21</td>
+<td class="midi" nowrap>2013-09-23</td>
+<td class="midi" nowrap>31 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_545_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=9f6ba8ac14ab8428fc2d6612781e514d&amp;file=mz_545_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_545_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_545_2.mid">2. Movement</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>5:44</td>
+<td class="midi" nowrap>2013-09-27</td>
+<td class="midi" nowrap>18 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_545_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=ba0ffd88c931a939f7e676029327f8d0&amp;file=mz_545_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_545_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_545_3.mid">3. Movement</a></td>
+<td class="midi">Rondo Allegretto</td>
+<td class="midi" nowrap>1:44</td>
+<td class="midi" nowrap>2013-09-29</td>
+<td class="midi" nowrap>10 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_545_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=d27fc2c5eb73f9ef0fd48aa769db5f5c&amp;file=mz_545_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_545_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Sonata No. 17 Bb major, KV 570
+(1789)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_570_1.mid">1. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>7:56</td>
+<td class="midi" nowrap>2013-10-10</td>
+<td class="midi" nowrap>44 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_570_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=f864fbdb40604fb5d02cb7f5fc61d2d4&amp;file=mz_570_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_570_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_570_2.mid">2. Movement</a></td>
+<td class="midi">Adagio</td>
+<td class="midi" nowrap>7:35</td>
+<td class="midi" nowrap>2013-10-17</td>
+<td class="midi" nowrap>22 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_570_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=4d50560b74cafc44edb95d6113c3e26a&amp;file=mz_570_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_570_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mozart/mz_570_3.mid">3. Movement</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>3:20</td>
+<td class="midi" nowrap>2013-10-23</td>
+<td class="midi" nowrap>21 KB</td>
+<td class="midi"><a class="navi" href="midis/mozart/mz_570_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=59780748d8c77ba3a42529f4754c625a&amp;file=mz_570_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mozart/mz_570_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><p><a href="zip/mozart.zip">Mozart
+  as ZIP File</a><br><a href="midisearch.php">Search for MIDI files</a><br>
+</p>
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/deed.en"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png"></a>
+<br>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+<license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/de/"/>
+</Work>
+</rdf:RDF>
+-->
+<br><br><hr><div class="signatur"><a href="midicoll.htm">Main page</a>
+|
+<a href="news.htm">News</a>
+|
+<a href="contact.htm">Contact</a>
+|
+<a href="guests.htm">Guestbook</a>
+|
+<a href="links.htm">Links</a>
+|
+<a href="search.htm">Search</a>
+|
+<a href="indeks.htm">Index</a>
+|
+<a href="sitemap.htm">Sitemap</a><br><br>Copyright © 1996-2016 by Bernd Krueger<br>
+
+Home:
+<a href="http://www.piano-midi.de">http://www.piano-midi.de</a><br></div>
+
+
+No connection
+Selection of database failed
+insert failed
+
+</td><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><strong>
+   Other languages
+ </strong><a href="mozart_d.htm" class="
+   navi
+   ">
+  Deutsch
+ </a><br><a href="mozart_es.htm" class="
+   navi
+   ">
+  Español
+ </a><br><a href="mozart_fr.htm" class="
+   navi
+   ">
+  Français
+ </a><br>---------<br><br><a href="impressum.htm" class="
+   navi
+   ">Imprint</a><br><a href="copy.htm" class="
+   navi
+   ">Copyright</a><br><br></div><br><div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-2741754398486474";
+google_ad_width = 125;
+google_ad_height = 125;
+google_ad_format = "125x125_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+</td></tr></table></body></html>

@@ -1,0 +1,504 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/DTD/html4-transitional.dtd">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="author" content="Bernd Krueger">
+<meta name="description" content="
+		Classical piano MIDI and MP3 sequences by Grieg for free download
+		">
+<meta name="keywords" content="
+		classical midi files, piano music, music, piano, midi, mp3,  Grieg,  lyric pieces, watchman's song, little bird, march of the dwarfs, wedding-day at troldhaugen, wedding, puck, free, download
+		">
+<title>Classical Piano Midi Page
+-
+Grieg</title>
+<style type="text/css">
+body {font-family:Verdana; color:black; background:white; font-size:101%;}
+p {font-size:80%;}
+h1 { font-size:120%;}
+h1.head { font-size:104%; font-weight:normal; color:white;                                    background-color:#0088BB; margin-bottom:0px; margin-top:0px; width: 100%;
+          border: none; text-align: center; padding:1px;}
+h2 { font-size:100%;color:#999999;}
+h3 { font-size:84%; }
+table.midi { font-size:80%; width: 100%; }
+tr.midi {background-color:#EEEEEE;}
+th.midi {padding-left: 5px; padding-right: 5px; }
+td.midi {padding-left: 5px; padding-right: 5px; valign="top"; }
+.menu {font-size: 80%; }
+.top {font-size: 80%; }
+.navileft {font-size: 80%; margin-left:10px; margin-right:10px; padding:5px;   background-color:#EEEEEE; border:none; }
+.navitop {font-size: 80%; }
+.signatur {font-size: 70%; }
+.content {font-size:80%;}
+
+/* Navigation */
+a.navi:link {text-decoration:none; color:black; background-color:transparent}
+a.navi:visited {text-decoration:none; color:black; background-color:transparent}
+a.navi:hover {text-decoration:underline; color:#0000FF; background-color:transparent}
+a.navi:active {text-decoration:underline; color:#900B09; background-color:transparent}
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+/* verhindert, daß die Seite in einem fremden Frame geladen wird */
+if(top!=self)
+  top.location=self.location;
+//-->
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+<body>
+No connection
+Selection of database failed
+query failed<table cellpadding="5" width="100%" cellspacing="0"><tr><td></td><td><div align="center"><img src="graphik/pianomid.jpg" width="318" height="60" border="0" alt="Classical Piano Midi Page"></div><br>
+</td></tr><tr><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><a href="midi_files.htm" class="
+   navi
+   " title="MIDI Files"><strong>MIDI Files</strong></a><br>
+<a href="albeniz.htm" class="
+   navi
+   " title="Albéniz Midi and Audio Files">Albéniz</a><br>
+<a href="bach.htm" class="
+   navi
+   " title="Bach Midi and Audio Files">Bach</a><br>
+<a href="balak.htm" class="
+   navi
+   " title="Balakirew Midi and Audio Files">Balakirew</a><br>
+<a href="beeth.htm" class="
+   navi
+   " title="Beethoven Midi and Audio Files">Beethoven</a><br>
+<a href="borodin.htm" class="
+   navi
+   " title="Borodin Midi and Audio Files">Borodin</a><br>
+<a href="brahms.htm" class="
+   navi
+   " title="Brahms Midi and Audio Files">Brahms</a><br>
+<a href="burgm.htm" class="
+   navi
+   " title="Burgmueller Midi and Audio Files">Burgmueller</a><br>
+<a href="chopin.htm" class="
+   navi
+   " title="Chopin Midi and Audio Files">Chopin</a><br>
+<a href="clementi.htm" class="
+   navi
+   " title="Clementi Midi and Audio Files">Clementi</a><br>
+<a href="debuss.htm" class="
+   navi
+   " title="Debussy Midi and Audio Files">Debussy</a><br>
+<a href="godowsky.htm" class="
+   navi
+   " title="Godowsky Midi and Audio Files">Godowsky</a><br>
+<a href="grana.htm" class="
+   navi
+   " title="Granados Midi and Audio Files">Granados</a><br>
+<a href="grieg.htm" class="
+   navi
+   " title="Grieg Midi and Audio Files">Grieg</a><br>
+<a href="haydn.htm" class="
+   navi
+   " title="Haydn Midi and Audio Files">Haydn</a><br>
+<a href="liszt.htm" class="
+   navi
+   " title="Liszt Midi and Audio Files">Liszt</a><br>
+<a href="mendelssohn.htm" class="
+   navi
+   " title="Mendelssohn Midi and Audio Files">Mendelssohn</a><br>
+<a href="moszkowski.htm" class="
+   navi
+   " title="Moszkowski Midi and Audio Files">Moszkowski</a><br>
+<a href="mozart.htm" class="
+   navi
+   " title="Mozart Midi and Audio Files">Mozart</a><br>
+<a href="muss.htm" class="
+   navi
+   " title="Mussorgsky Midi and Audio Files">Mussorgsky</a><br>
+<a href="rach.htm" class="
+   navi
+   " title="Rachmaninov Midi and Audio Files">Rachmaninov</a><br>
+<a href="ravel.htm" class="
+   navi
+   " title="Ravel Midi and Audio Files">Ravel</a><br>
+<a href="schub.htm" class="
+   navi
+   " title="Schubert Midi and Audio Files">Schubert</a><br>
+<a href="schum.htm" class="
+   navi
+   " title="Schumann Midi and Audio Files">Schumann</a><br>
+<a href="sinding.htm" class="
+   navi
+   " title="Sinding Midi and Audio Files">Sinding</a><br>
+<a href="tschai.htm" class="
+   navi
+   " title="Tchaikovsky Midi and Audio Files">Tchaikovsky</a><br>
+<br><a href="other.htm" class="
+   navi
+   " title="Audio formats"><strong>Audio formats</strong></a><br>
+<br><a href="about.htm" class="
+   navi
+   " title="About"><strong>About</strong></a><br><br></div><br><div style="text-align: center"><form method="post" action="http://piano-midi.de/cgi-bin/search.cgi" onsubmit="searchword()"><input type="text" name="Terms" size="10" value=""><br><input type="submit" value=" Search " size="1" style="font-family: arial; font-size:11px;"></form></div></td><td valign="top"><a name="grieg"></a><h1 class="head">Grieg</h1>
+<div class="navitop"><a href="midicoll.htm">Main Page</a>
+ &gt;
+<a href="midi_files.htm">MIDI files</a>
+ &gt;
+Grieg</div><p>
+The standard format is MIDI Format 1, in which each channel has its own track. In format 0  all channels are integrated in one track, this is necessary for some keyboards. This page in addition contains audio formats, scores or videos with visualisation of the scores during playing the music, if available.
+</p><h2>Lyric Pieces Book I, Opus 12
+(1867)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_walzer.mid">No. 2 - Valse</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>1:48</td>
+<td class="midi" nowrap>2012-10-27</td>
+<td class="midi" nowrap>8 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_walzer_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=cd21dd66128bde7f1b8232266764ac5d&amp;file=grieg_walzer.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_walzer.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_waechter.mid">No. 3 - Watchman's song</a></td>
+<td class="midi">Molto andante e simplice</td>
+<td class="midi" nowrap>2:47</td>
+<td class="midi" nowrap>2012-10-28</td>
+<td class="midi" nowrap>7 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_waechter_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=8433a8fa00b5702e3836ac888c5a5a4e&amp;file=grieg_waechter.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_waechter.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_elfentanz.mid">No. 4 - Fairy Dance</a></td>
+<td class="midi">Molto allegro e sempre staccato</td>
+<td class="midi" nowrap>1:54</td>
+<td class="midi" nowrap>2012-10-29</td>
+<td class="midi" nowrap>9 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_elfentanz_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=7bef79c35d0104aa9fbb5f0b34e94a1e&amp;file=grieg_elfentanz.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_elfentanz.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+
+</table><h2>Lyric Pieces Book II , Opus 38
+(1883)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_berceuse.mid">No. 1 - Berceuse</a></td>
+<td class="midi">Allegretto tranquillo</td>
+<td class="midi" nowrap>2:38</td>
+<td class="midi" nowrap>2013-07-01</td>
+<td class="midi" nowrap>10 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_berceuse_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=67812eeeb0b26b9e1a7ec169fffa7c59&amp;file=grieg_berceuse.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_berceuse.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_halling.mid">No. 4 - Halling</a></td>
+<td class="midi">Allegro marcato</td>
+<td class="midi" nowrap>0:51</td>
+<td class="midi" nowrap>2012-11-03</td>
+<td class="midi" nowrap>5 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_halling_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=33e7e20e7cf7bdbec736b79ae6509e74&amp;file=grieg_halling.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_halling.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Lyric Pieces Book III, Opus 43
+(1886)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_butterfly.mid">No. 1 - Butterfly</a></td>
+<td class="midi">Allegro grazioso</td>
+<td class="midi" nowrap>1:37</td>
+<td class="midi" nowrap>2012-11-04</td>
+<td class="midi" nowrap>13 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_butterfly_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=31e7929dbe646bdea5f781f9ddabf53f&amp;file=grieg_butterfly.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_butterfly.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_wanderer.mid">No. 2 - Solitary Traveller</a></td>
+<td class="midi">Allegro semplice</td>
+<td class="midi" nowrap>1:41</td>
+<td class="midi" nowrap>2012-11-05</td>
+<td class="midi" nowrap>5 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_wanderer_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=2033fa9845cf73cc51ec00b4a6803600&amp;file=grieg_wanderer.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_wanderer.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_voeglein.mid">No. 4 - Little Bird</a></td>
+<td class="midi">Allegro leggiero</td>
+<td class="midi" nowrap>1:37</td>
+<td class="midi" nowrap>2012-11-06</td>
+<td class="midi" nowrap>9 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_voeglein_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=da8e6d26fe1111c9f0850ad7725ede34&amp;file=grieg_voeglein.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_voeglein.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_spring.mid">No. 6 - To Spring</a></td>
+<td class="midi">Allegro appassionato</td>
+<td class="midi" nowrap>2:34</td>
+<td class="midi" nowrap>2013-08-01</td>
+<td class="midi" nowrap>17 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_spring_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=c102e954dcf5ca030bce0288938836de&amp;file=grieg_spring.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_spring.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Lyric Pieces Book IV , Opus 47</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_album.mid">No. 2 - Album Leaf</a></td>
+<td class="midi">Allegro vivace e grazioso</td>
+<td class="midi" nowrap>3:07</td>
+<td class="midi" nowrap>2013-09-01</td>
+<td class="midi" nowrap>17 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_album_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=79d5e83a2cb8c8e8238dfa48b8e11745&amp;file=grieg_album.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_album.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Lyric Pieces Book V, Opus 54
+(1891)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_march.mid">No. 2 - Norwegian March</a></td>
+<td class="midi">Allegretto marcato</td>
+<td class="midi" nowrap>3:01</td>
+<td class="midi" nowrap>2013-10-01</td>
+<td class="midi" nowrap>18 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_march_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=166c37cd5cf6239940891e9e2856f39b&amp;file=grieg_march.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_march.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_zwerge.mid">No. 3 - March of the Dwarfs</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>2:36</td>
+<td class="midi" nowrap>2012-11-08</td>
+<td class="midi" nowrap>20 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_zwerge_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=0a440224f1a117e0acc577fe6a68f6f8&amp;file=grieg_zwerge.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_zwerge.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Lyric Pieces Book VII , Opus 62
+(1895)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_brooklet.mid">No. 4 - Brooklet</a></td>
+<td class="midi">Allegro leggiore</td>
+<td class="midi" nowrap>1:23</td>
+<td class="midi" nowrap>2013-11-01</td>
+<td class="midi" nowrap>18 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_brooklet_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=1c67bfe7a3bfe6023bb9a5c7c4fed6c9&amp;file=grieg_brooklet.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_brooklet.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Lyric Pieces Book VIII, Opus 65</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_wedding.mid">No. 6 - Wedding-day at Troldhaugen</a></td>
+<td class="midi">Tempo di Marcia un poco vivace</td>
+<td class="midi" nowrap>5:33</td>
+<td class="midi" nowrap>2012-11-18</td>
+<td class="midi" nowrap>34 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_wedding_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=a78a668288f580b65952696cf944aec2&amp;file=grieg_wedding.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_wedding.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Lyric Pieces Book X, Opus 71
+(1901)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_once_upon_a_time.mid">No. 1 - Once upon a Time</a></td>
+<td class="midi">Andante con moto</td>
+<td class="midi" nowrap>4:17</td>
+<td class="midi" nowrap>2013-12-01</td>
+<td class="midi" nowrap>16 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_once_upon_a_time_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=dda5014bdaa9803da1762cf7f7fcbaec&amp;file=grieg_once_upon_a_time.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_once_upon_a_time.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/grieg/grieg_kobold.mid">No. 3 - Puck</a></td>
+<td class="midi">Tempo di Marcia un poco vivace</td>
+<td class="midi" nowrap>1:24</td>
+<td class="midi" nowrap>2012-11-19</td>
+<td class="midi" nowrap>13 KB</td>
+<td class="midi"><a class="navi" href="midis/grieg/grieg_kobold_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=2bfc86bebd17ff99a7ee13d8792638fe&amp;file=grieg_kobold.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/grieg/grieg_kobold.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><p><a href="zip/grieg.zip">Grieg
+  as ZIP File</a><br><a href="midisearch.php">Search for MIDI files</a><br>
+</p>
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/deed.en"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png"></a>
+<br>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+<license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/de/"/>
+</Work>
+</rdf:RDF>
+-->
+<br><br><hr><div class="signatur"><a href="midicoll.htm">Main page</a>
+|
+<a href="news.htm">News</a>
+|
+<a href="contact.htm">Contact</a>
+|
+<a href="guests.htm">Guestbook</a>
+|
+<a href="links.htm">Links</a>
+|
+<a href="search.htm">Search</a>
+|
+<a href="indeks.htm">Index</a>
+|
+<a href="sitemap.htm">Sitemap</a><br><br>Copyright © 1996-2016 by Bernd Krueger<br>
+
+Home:
+<a href="http://www.piano-midi.de">http://www.piano-midi.de</a><br></div>
+
+
+No connection
+Selection of database failed
+insert failed
+
+</td><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><strong>
+   Other languages
+ </strong><a href="grieg_d.htm" class="
+   navi
+   ">
+  Deutsch
+ </a><br><a href="grieg_es.htm" class="
+   navi
+   ">
+  Español
+ </a><br><a href="grieg_fr.htm" class="
+   navi
+   ">
+  Français
+ </a><br>---------<br><br><a href="impressum.htm" class="
+   navi
+   ">Imprint</a><br><a href="copy.htm" class="
+   navi
+   ">Copyright</a><br><br></div><br><div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-2741754398486474";
+google_ad_width = 125;
+google_ad_height = 125;
+google_ad_format = "125x125_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+</td></tr></table></body></html>

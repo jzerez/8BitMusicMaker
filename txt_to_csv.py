@@ -11,7 +11,7 @@ CSV files, ready to be converted back into MIDI
 '''
 
 
-prefix = 'song_'
+prefix = '8bit_'
 txt_file = open("output.txt", "r")
 #output csv. Should change to one huge txt file
 song_number = 0

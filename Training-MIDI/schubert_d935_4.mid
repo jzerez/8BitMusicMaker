@@ -1,0 +1,651 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/DTD/html4-transitional.dtd">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="author" content="Bernd Krueger">
+<meta name="description" content="
+		Classical piano MIDi and MP3 sequences by Schubert for free download
+		">
+<meta name="keywords" content="
+		classical midi files, piano music, music, piano, midi, mp3,  Schubert, impromptu, impromptus, moment musical, moments musicaux,sonata, piano sonata, Opus 143, free, download
+		">
+<title>Classical Piano Midi Page
+-
+Schubert</title>
+<style type="text/css">
+body {font-family:Verdana; color:black; background:white; font-size:101%;}
+p {font-size:80%;}
+h1 { font-size:120%;}
+h1.head { font-size:104%; font-weight:normal; color:white;                                    background-color:#0088BB; margin-bottom:0px; margin-top:0px; width: 100%;
+          border: none; text-align: center; padding:1px;}
+h2 { font-size:100%;color:#999999;}
+h3 { font-size:84%; }
+table.midi { font-size:80%; width: 100%; }
+tr.midi {background-color:#EEEEEE;}
+th.midi {padding-left: 5px; padding-right: 5px; }
+td.midi {padding-left: 5px; padding-right: 5px; valign="top"; }
+.menu {font-size: 80%; }
+.top {font-size: 80%; }
+.navileft {font-size: 80%; margin-left:10px; margin-right:10px; padding:5px;   background-color:#EEEEEE; border:none; }
+.navitop {font-size: 80%; }
+.signatur {font-size: 70%; }
+.content {font-size:80%;}
+
+/* Navigation */
+a.navi:link {text-decoration:none; color:black; background-color:transparent}
+a.navi:visited {text-decoration:none; color:black; background-color:transparent}
+a.navi:hover {text-decoration:underline; color:#0000FF; background-color:transparent}
+a.navi:active {text-decoration:underline; color:#900B09; background-color:transparent}
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+/* verhindert, daß die Seite in einem fremden Frame geladen wird */
+if(top!=self)
+  top.location=self.location;
+//-->
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+<body>
+No connection
+Selection of database failed
+query failed<table cellpadding="5" width="100%" cellspacing="0"><tr><td></td><td><div align="center"><img src="graphik/pianomid.jpg" width="318" height="60" border="0" alt="Classical Piano Midi Page"></div><br>
+</td></tr><tr><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><a href="midi_files.htm" class="
+   navi
+   " title="MIDI Files"><strong>MIDI Files</strong></a><br>
+<a href="albeniz.htm" class="
+   navi
+   " title="Albéniz Midi and Audio Files">Albéniz</a><br>
+<a href="bach.htm" class="
+   navi
+   " title="Bach Midi and Audio Files">Bach</a><br>
+<a href="balak.htm" class="
+   navi
+   " title="Balakirew Midi and Audio Files">Balakirew</a><br>
+<a href="beeth.htm" class="
+   navi
+   " title="Beethoven Midi and Audio Files">Beethoven</a><br>
+<a href="borodin.htm" class="
+   navi
+   " title="Borodin Midi and Audio Files">Borodin</a><br>
+<a href="brahms.htm" class="
+   navi
+   " title="Brahms Midi and Audio Files">Brahms</a><br>
+<a href="burgm.htm" class="
+   navi
+   " title="Burgmueller Midi and Audio Files">Burgmueller</a><br>
+<a href="chopin.htm" class="
+   navi
+   " title="Chopin Midi and Audio Files">Chopin</a><br>
+<a href="clementi.htm" class="
+   navi
+   " title="Clementi Midi and Audio Files">Clementi</a><br>
+<a href="debuss.htm" class="
+   navi
+   " title="Debussy Midi and Audio Files">Debussy</a><br>
+<a href="godowsky.htm" class="
+   navi
+   " title="Godowsky Midi and Audio Files">Godowsky</a><br>
+<a href="grana.htm" class="
+   navi
+   " title="Granados Midi and Audio Files">Granados</a><br>
+<a href="grieg.htm" class="
+   navi
+   " title="Grieg Midi and Audio Files">Grieg</a><br>
+<a href="haydn.htm" class="
+   navi
+   " title="Haydn Midi and Audio Files">Haydn</a><br>
+<a href="liszt.htm" class="
+   navi
+   " title="Liszt Midi and Audio Files">Liszt</a><br>
+<a href="mendelssohn.htm" class="
+   navi
+   " title="Mendelssohn Midi and Audio Files">Mendelssohn</a><br>
+<a href="moszkowski.htm" class="
+   navi
+   " title="Moszkowski Midi and Audio Files">Moszkowski</a><br>
+<a href="mozart.htm" class="
+   navi
+   " title="Mozart Midi and Audio Files">Mozart</a><br>
+<a href="muss.htm" class="
+   navi
+   " title="Mussorgsky Midi and Audio Files">Mussorgsky</a><br>
+<a href="rach.htm" class="
+   navi
+   " title="Rachmaninov Midi and Audio Files">Rachmaninov</a><br>
+<a href="ravel.htm" class="
+   navi
+   " title="Ravel Midi and Audio Files">Ravel</a><br>
+<a href="schub.htm" class="
+   navi
+   " title="Schubert Midi and Audio Files">Schubert</a><br>
+<a href="schum.htm" class="
+   navi
+   " title="Schumann Midi and Audio Files">Schumann</a><br>
+<a href="sinding.htm" class="
+   navi
+   " title="Sinding Midi and Audio Files">Sinding</a><br>
+<a href="tschai.htm" class="
+   navi
+   " title="Tchaikovsky Midi and Audio Files">Tchaikovsky</a><br>
+<br><a href="other.htm" class="
+   navi
+   " title="Audio formats"><strong>Audio formats</strong></a><br>
+<br><a href="about.htm" class="
+   navi
+   " title="About"><strong>About</strong></a><br><br></div><br><div style="text-align: center"><form method="post" action="http://piano-midi.de/cgi-bin/search.cgi" onsubmit="searchword()"><input type="text" name="Terms" size="10" value=""><br><input type="submit" value=" Search " size="1" style="font-family: arial; font-size:11px;"></form></div></td><td valign="top"><a name="schubert"></a><h1 class="head">Schubert</h1>
+<div class="navitop"><a href="midicoll.htm">Main Page</a>
+ &gt;
+<a href="midi_files.htm">MIDI files</a>
+ &gt;
+Schubert</div><p>
+The standard format is MIDI Format 1, in which each channel has its own track. In format 0  all channels are integrated in one track, this is necessary for some keyboards. This page in addition contains audio formats, scores or videos with visualisation of the scores during playing the music, if available.
+</p><h2>Piano Sonata in D major, D 850, Opus 53
+(1825)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schubert_D850_1.mid">1. Movement</a></td>
+<td class="midi">Allegro vivace</td>
+<td class="midi" nowrap>8:47</td>
+<td class="midi" nowrap>2014-03-13</td>
+<td class="midi" nowrap>75 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schubert_D850_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=3aece56a338e379c567cc427ce49de3c&amp;file=schubert_D850_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schubert_D850_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schubert_D850_2.mid">2. Movement</a></td>
+<td class="midi">Con moto</td>
+<td class="midi" nowrap>10:09</td>
+<td class="midi" nowrap>2014-03-13</td>
+<td class="midi" nowrap>45 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schubert_D850_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=a01c9cb7202f3ece329f200fac8c8ace&amp;file=schubert_D850_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schubert_D850_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schubert_D850_3.mid">3. Movement</a></td>
+<td class="midi">Scherzo</td>
+<td class="midi" nowrap>9:24</td>
+<td class="midi" nowrap>2014-03-13</td>
+<td class="midi" nowrap>57 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schubert_D850_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=3b1ea2400424102b42f8984d31999c30&amp;file=schubert_D850_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schubert_D850_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schubert_D850_4.mid">4. Movement</a></td>
+<td class="midi">Rondo - Allegro moderato</td>
+<td class="midi" nowrap>9:07</td>
+<td class="midi" nowrap>2014-03-13</td>
+<td class="midi" nowrap>54 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schubert_D850_4_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=a0b2885d397ce6fee68e0378f11f706c&amp;file=schubert_D850_4.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schubert_D850_4.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Fantasia C major
+(Wanderer)
+, D 760, Opus 15
+(1822)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schub_d760_1.mid">1. Movement</a></td>
+<td class="midi">Allegro con fuoco ma non troppo</td>
+<td class="midi" nowrap>5:54</td>
+<td class="midi" nowrap>2014-03-15</td>
+<td class="midi" nowrap>41 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schub_d760_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=1b38fa607a934dbaf0a0a0dfff4c01f2&amp;file=schub_d760_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schub_d760_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schub_d760_2.mid">2. Movement</a></td>
+<td class="midi">Adagio</td>
+<td class="midi" nowrap>7:00</td>
+<td class="midi" nowrap>2014-03-15</td>
+<td class="midi" nowrap>34 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schub_d760_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=c011f7b5ae63ea7e4bf9def69105da30&amp;file=schub_d760_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schub_d760_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schub_d760_3.mid">3. Movement</a></td>
+<td class="midi">Presto</td>
+<td class="midi" nowrap>4:29</td>
+<td class="midi" nowrap>2014-03-15</td>
+<td class="midi" nowrap>35 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schub_d760_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=8599815da9cd624ebb529cdf0ab46f1e&amp;file=schub_d760_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schub_d760_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schub_d760_4.mid">4. Movement</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>3:27</td>
+<td class="midi" nowrap>2014-03-15</td>
+<td class="midi" nowrap>32 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schub_d760_4_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=d9c5ce56613ec913d406d91bd2eb3c96&amp;file=schub_d760_4.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schub_d760_4.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>6 Moments musicaux, D 780, Opus 94
+(1828)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schumm-1.mid">No. 1</a></td>
+<td class="midi">Moderato</td>
+<td class="midi" nowrap>4:30</td>
+<td class="midi" nowrap>2014-03-16</td>
+<td class="midi" nowrap>25 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schumm-1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=525e4c8d7ba6924dde99ab6e14a4b9b3&amp;file=schumm-1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schumm-1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schumm-2.mid">No. 2</a></td>
+<td class="midi">Andantino</td>
+<td class="midi" nowrap>5:20</td>
+<td class="midi" nowrap>2014-03-16</td>
+<td class="midi" nowrap>17 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schumm-2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=c6d3f73b7d986bcd7e71324be23324b1&amp;file=schumm-2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schumm-2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schumm-3.mid">No. 3</a></td>
+<td class="midi">Allegretto moderato</td>
+<td class="midi" nowrap>1:43</td>
+<td class="midi" nowrap>2014-03-16</td>
+<td class="midi" nowrap>9 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schumm-3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=df6a0f039b340e547eb4f6fe3b51d849&amp;file=schumm-3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schumm-3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schumm-4.mid">No. 4</a></td>
+<td class="midi">Moderato</td>
+<td class="midi" nowrap>5:09</td>
+<td class="midi" nowrap>2014-03-16</td>
+<td class="midi" nowrap>28 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schumm-4_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=7551c54516f152ebaf6958ad0f18d2a9&amp;file=schumm-4.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schumm-4.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schumm-5.mid">No. 5</a></td>
+<td class="midi">Allegro vivace</td>
+<td class="midi" nowrap>1:59</td>
+<td class="midi" nowrap>2014-03-16</td>
+<td class="midi" nowrap>20 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schumm-5_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=b5ed0a213041ba3cfc48c7238a4cee18&amp;file=schumm-5.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schumm-5.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schumm-6.mid">No. 6</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>5:14</td>
+<td class="midi" nowrap>2014-03-16</td>
+<td class="midi" nowrap>20 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schumm-6_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=6fd56ab550370dd5fe7d0b351aa667cc&amp;file=schumm-6.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schumm-6.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Piano Sonata in A minor, D 784, Opus 143
+(1823)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schu_143_1.mid">1. Movement</a></td>
+<td class="midi">Allegro giusto</td>
+<td class="midi" nowrap>12:30</td>
+<td class="midi" nowrap>2014-03-17</td>
+<td class="midi" nowrap>56 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schu_143_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=c3799dc5d93eafbed5805fb58ff1a519&amp;file=schu_143_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schu_143_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schu_143_2.mid">2. Movement</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>3:48</td>
+<td class="midi" nowrap>2014-03-17</td>
+<td class="midi" nowrap>14 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schu_143_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=554273c41d359aa8cb2be7e052bdb6f3&amp;file=schu_143_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schu_143_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schu_143_3.mid">3. Movement</a></td>
+<td class="midi">Allegro vivace</td>
+<td class="midi" nowrap>5:29</td>
+<td class="midi" nowrap>2014-03-17</td>
+<td class="midi" nowrap>36 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schu_143_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=c3932b3240e9bd60bbd21ab6e49ec1d1&amp;file=schu_143_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schu_143_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>4 Impromptus, D 899, Opus 90
+(1827)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schuim-1.mid">No. 1</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>7:44</td>
+<td class="midi" nowrap>2014-03-18</td>
+<td class="midi" nowrap>41 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schuim-1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=95cbe44173a1f77abd09abe577e86dc3&amp;file=schuim-1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schuim-1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schuim-2.mid">No. 2</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>4:30</td>
+<td class="midi" nowrap>2014-03-18</td>
+<td class="midi" nowrap>29 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schuim-2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=ea307f52d154b20abea318ee250008e5&amp;file=schuim-2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schuim-2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schuim-3.mid">No. 3</a></td>
+<td class="midi">Allegro</td>
+<td class="midi" nowrap>5:12</td>
+<td class="midi" nowrap>2014-03-19</td>
+<td class="midi" nowrap>39 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schuim-3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=942975e5e7d43c25035747b01a8e0add&amp;file=schuim-3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schuim-3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schuim-4.mid">No. 4</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>7:00</td>
+<td class="midi" nowrap>2014-03-19</td>
+<td class="midi" nowrap>48 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schuim-4_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=7a8d7b042094554c3f2c834cd80171df&amp;file=schuim-4.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schuim-4.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>4 Impromptus, D 935, Opus posth. 142</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schubert_d935_1.mid">No. 1</a></td>
+<td class="midi">Allegro moderato</td>
+<td class="midi" nowrap>8:38</td>
+<td class="midi" nowrap>2014-03-20</td>
+<td class="midi" nowrap>84 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schubert_d935_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=a79fc29a3d3c27f4edccac21c919b8af&amp;file=schubert_d935_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schubert_d935_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schubert_d935_2.mid">No. 2</a></td>
+<td class="midi">Allegretto</td>
+<td class="midi" nowrap>7:00</td>
+<td class="midi" nowrap>2014-03-20</td>
+<td class="midi" nowrap>27 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schubert_d935_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=be3675fad64aac86379dce0496116432&amp;file=schubert_d935_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schubert_d935_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schubert_d935_3.mid">No. 3</a></td>
+<td class="midi">Andante</td>
+<td class="midi" nowrap>11:15</td>
+<td class="midi" nowrap>2014-03-21</td>
+<td class="midi" nowrap>58 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schubert_d935_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=fb3f0a9a70fbac37a654407be671a858&amp;file=schubert_d935_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schubert_d935_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schubert_d935_4.mid">No. 4</a></td>
+<td class="midi">Allegro scherzando</td>
+<td class="midi" nowrap>5:35</td>
+<td class="midi" nowrap>2014-03-22</td>
+<td class="midi" nowrap>54 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schubert_d935_4_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=a3530c4d6c37dfd118aa24798777c1cb&amp;file=schubert_d935_4.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schubert_d935_4.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Piano Sonata in Bb major, D 960
+(1828)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schub_d960_1.mid">1. Movement</a></td>
+<td class="midi">Molto moderato</td>
+<td class="midi" nowrap>22:06</td>
+<td class="midi" nowrap>2014-03-23</td>
+<td class="midi" nowrap>104 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schub_d960_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=837f50eb9245bc5d135a1977f7e3aa82&amp;file=schub_d960_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schub_d960_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schub_d960_2.mid">2. Movement</a></td>
+<td class="midi">Andante sostenuto</td>
+<td class="midi" nowrap>8:36</td>
+<td class="midi" nowrap>2014-03-24</td>
+<td class="midi" nowrap>23 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schub_d960_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=d9c9cb755bf9de62abd6d2509a48f697&amp;file=schub_d960_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schub_d960_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schub_d960_3.mid">3. Movement</a></td>
+<td class="midi">Scherzo - Allegro vivace con delicatezza</td>
+<td class="midi" nowrap>3:55</td>
+<td class="midi" nowrap>2014-03-24</td>
+<td class="midi" nowrap>29 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schub_d960_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=f6e577f0af7bf75ec98051b15e0dc54d&amp;file=schub_d960_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schub_d960_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/schubert/schub_d960_4.mid">4. Movement</a></td>
+<td class="midi">Allegro, ma non troppo</td>
+<td class="midi" nowrap>8:04</td>
+<td class="midi" nowrap>2014-03-25</td>
+<td class="midi" nowrap>57 KB</td>
+<td class="midi"><a class="navi" href="midis/schubert/schub_d960_4_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=08f7d84601e55f774ee5298a5ac24dc3&amp;file=schub_d960_4.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/schubert/schub_d960_4.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><p><a href="zip/schubert.zip">Schubert
+  as ZIP File</a><br><a href="midisearch.php">Search for MIDI files</a><br>
+</p>
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/deed.en"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png"></a>
+<br>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+<license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/de/"/>
+</Work>
+</rdf:RDF>
+-->
+<br><br><hr><div class="signatur"><a href="midicoll.htm">Main page</a>
+|
+<a href="news.htm">News</a>
+|
+<a href="contact.htm">Contact</a>
+|
+<a href="guests.htm">Guestbook</a>
+|
+<a href="links.htm">Links</a>
+|
+<a href="search.htm">Search</a>
+|
+<a href="indeks.htm">Index</a>
+|
+<a href="sitemap.htm">Sitemap</a><br><br>Copyright © 1996-2016 by Bernd Krueger<br>
+
+Home:
+<a href="http://www.piano-midi.de">http://www.piano-midi.de</a><br></div>
+
+
+No connection
+Selection of database failed
+insert failed
+
+</td><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><strong>
+   Other languages
+ </strong><a href="schub_d.htm" class="
+   navi
+   ">
+  Deutsch
+ </a><br><a href="schub_es.htm" class="
+   navi
+   ">
+  Español
+ </a><br><a href="schub_fr.htm" class="
+   navi
+   ">
+  Français
+ </a><br>---------<br><br><a href="impressum.htm" class="
+   navi
+   ">Imprint</a><br><a href="copy.htm" class="
+   navi
+   ">Copyright</a><br><br></div><br><div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-2741754398486474";
+google_ad_width = 125;
+google_ad_height = 125;
+google_ad_format = "125x125_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+</td></tr></table></body></html>

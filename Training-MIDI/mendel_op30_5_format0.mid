@@ -1,0 +1,447 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/DTD/html4-transitional.dtd">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="author" content="Bernd Krueger">
+<meta name="description" content="
+		Classical piano MIDI sequences by Mendelssohn for free download
+		">
+<meta name="keywords" content="
+		classical midi files, piano music, music, piano, midi, Mendelssohn, Bartholdy, Mendelssohn-Bartholdy, Songs without Words, free, download
+		">
+<title>Classical Piano Midi Page
+-
+Mendelssohn</title>
+<style type="text/css">
+body {font-family:Verdana; color:black; background:white; font-size:101%;}
+p {font-size:80%;}
+h1 { font-size:120%;}
+h1.head { font-size:104%; font-weight:normal; color:white;                                    background-color:#0088BB; margin-bottom:0px; margin-top:0px; width: 100%;
+          border: none; text-align: center; padding:1px;}
+h2 { font-size:100%;color:#999999;}
+h3 { font-size:84%; }
+table.midi { font-size:80%; width: 100%; }
+tr.midi {background-color:#EEEEEE;}
+th.midi {padding-left: 5px; padding-right: 5px; }
+td.midi {padding-left: 5px; padding-right: 5px; valign="top"; }
+.menu {font-size: 80%; }
+.top {font-size: 80%; }
+.navileft {font-size: 80%; margin-left:10px; margin-right:10px; padding:5px;   background-color:#EEEEEE; border:none; }
+.navitop {font-size: 80%; }
+.signatur {font-size: 70%; }
+.content {font-size:80%;}
+
+/* Navigation */
+a.navi:link {text-decoration:none; color:black; background-color:transparent}
+a.navi:visited {text-decoration:none; color:black; background-color:transparent}
+a.navi:hover {text-decoration:underline; color:#0000FF; background-color:transparent}
+a.navi:active {text-decoration:underline; color:#900B09; background-color:transparent}
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+/* verhindert, daß die Seite in einem fremden Frame geladen wird */
+if(top!=self)
+  top.location=self.location;
+//-->
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+<body>
+No connection
+Selection of database failed
+query failed<table cellpadding="5" width="100%" cellspacing="0"><tr><td></td><td><div align="center"><img src="graphik/pianomid.jpg" width="318" height="60" border="0" alt="Classical Piano Midi Page"></div><br>
+</td></tr><tr><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><a href="midi_files.htm" class="
+   navi
+   " title="MIDI Files"><strong>MIDI Files</strong></a><br>
+<a href="albeniz.htm" class="
+   navi
+   " title="Albéniz Midi and Audio Files">Albéniz</a><br>
+<a href="bach.htm" class="
+   navi
+   " title="Bach Midi and Audio Files">Bach</a><br>
+<a href="balak.htm" class="
+   navi
+   " title="Balakirew Midi and Audio Files">Balakirew</a><br>
+<a href="beeth.htm" class="
+   navi
+   " title="Beethoven Midi and Audio Files">Beethoven</a><br>
+<a href="borodin.htm" class="
+   navi
+   " title="Borodin Midi and Audio Files">Borodin</a><br>
+<a href="brahms.htm" class="
+   navi
+   " title="Brahms Midi and Audio Files">Brahms</a><br>
+<a href="burgm.htm" class="
+   navi
+   " title="Burgmueller Midi and Audio Files">Burgmueller</a><br>
+<a href="chopin.htm" class="
+   navi
+   " title="Chopin Midi and Audio Files">Chopin</a><br>
+<a href="clementi.htm" class="
+   navi
+   " title="Clementi Midi and Audio Files">Clementi</a><br>
+<a href="debuss.htm" class="
+   navi
+   " title="Debussy Midi and Audio Files">Debussy</a><br>
+<a href="godowsky.htm" class="
+   navi
+   " title="Godowsky Midi and Audio Files">Godowsky</a><br>
+<a href="grana.htm" class="
+   navi
+   " title="Granados Midi and Audio Files">Granados</a><br>
+<a href="grieg.htm" class="
+   navi
+   " title="Grieg Midi and Audio Files">Grieg</a><br>
+<a href="haydn.htm" class="
+   navi
+   " title="Haydn Midi and Audio Files">Haydn</a><br>
+<a href="liszt.htm" class="
+   navi
+   " title="Liszt Midi and Audio Files">Liszt</a><br>
+<a href="mendelssohn.htm" class="
+   navi
+   " title="Mendelssohn Midi and Audio Files">Mendelssohn</a><br>
+<a href="moszkowski.htm" class="
+   navi
+   " title="Moszkowski Midi and Audio Files">Moszkowski</a><br>
+<a href="mozart.htm" class="
+   navi
+   " title="Mozart Midi and Audio Files">Mozart</a><br>
+<a href="muss.htm" class="
+   navi
+   " title="Mussorgsky Midi and Audio Files">Mussorgsky</a><br>
+<a href="rach.htm" class="
+   navi
+   " title="Rachmaninov Midi and Audio Files">Rachmaninov</a><br>
+<a href="ravel.htm" class="
+   navi
+   " title="Ravel Midi and Audio Files">Ravel</a><br>
+<a href="schub.htm" class="
+   navi
+   " title="Schubert Midi and Audio Files">Schubert</a><br>
+<a href="schum.htm" class="
+   navi
+   " title="Schumann Midi and Audio Files">Schumann</a><br>
+<a href="sinding.htm" class="
+   navi
+   " title="Sinding Midi and Audio Files">Sinding</a><br>
+<a href="tschai.htm" class="
+   navi
+   " title="Tchaikovsky Midi and Audio Files">Tchaikovsky</a><br>
+<br><a href="other.htm" class="
+   navi
+   " title="Audio formats"><strong>Audio formats</strong></a><br>
+<br><a href="about.htm" class="
+   navi
+   " title="About"><strong>About</strong></a><br><br></div><br><div style="text-align: center"><form method="post" action="http://piano-midi.de/cgi-bin/search.cgi" onsubmit="searchword()"><input type="text" name="Terms" size="10" value=""><br><input type="submit" value=" Search " size="1" style="font-family: arial; font-size:11px;"></form></div></td><td valign="top"><a name="mendelssohn"></a><h1 class="head">Mendelssohn</h1>
+<div class="navitop"><a href="midicoll.htm">Main Page</a>
+ &gt;
+<a href="midi_files.htm">MIDI files</a>
+ &gt;
+Mendelssohn</div><p>
+The standard format is MIDI Format 1, in which each channel has its own track. In format 0  all channels are integrated in one track, this is necessary for some keyboards. This page in addition contains audio formats, scores or videos with visualisation of the scores during playing the music, if available.
+</p><h2>Songs without Words Book 1, Opus 19
+(1830)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op19_1.mid">No. 1</a></td>
+<td class="midi">Andante con moto</td>
+<td class="midi" nowrap>2:46</td>
+<td class="midi" nowrap>2014-11-01</td>
+<td class="midi" nowrap>15 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op19_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=85438d46621b8d344e6ccc359fa2c508&amp;file=mendel_op19_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op19_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op19_2.mid">No. 2</a></td>
+<td class="midi">Andante expressivo</td>
+<td class="midi" nowrap>2:48</td>
+<td class="midi" nowrap>2014-12-01</td>
+<td class="midi" nowrap>9 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op19_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=32c742587b60601a25997e944576df2d&amp;file=mendel_op19_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op19_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op19_3.mid">No. 3</a></td>
+<td class="midi">Molto Allegro e vivace</td>
+<td class="midi" nowrap>2:18</td>
+<td class="midi" nowrap>2015-01-01</td>
+<td class="midi" nowrap>20 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op19_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=750995750fafc783406627bbeef9ae3e&amp;file=mendel_op19_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op19_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op19_4.mid">No. 4</a></td>
+<td class="midi">Moderato</td>
+<td class="midi" nowrap>1:46</td>
+<td class="midi" nowrap>2015-02-01</td>
+<td class="midi" nowrap>6 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op19_4_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=5d12f6184f422c84c7ead622366b0d0e&amp;file=mendel_op19_4.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op19_4.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op19_5.mid">No. 5</a></td>
+<td class="midi">Piano agitato</td>
+<td class="midi" nowrap>2:56</td>
+<td class="midi" nowrap>2015-03-01</td>
+<td class="midi" nowrap>24 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op19_5_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=d697931922e425f3519f6f9572a0e299&amp;file=mendel_op19_5.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op19_5.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op19_6.mid">No. 6 - Venetian Gondola Song</a></td>
+<td class="midi">Andante sostenuto</td>
+<td class="midi" nowrap>2:41</td>
+<td class="midi" nowrap>2015-04-01</td>
+<td class="midi" nowrap>8 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op19_6_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=a275dc7e1c6a31bc1efacd1074b0075f&amp;file=mendel_op19_6.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op19_6.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Songs without Words Book 2, Opus 30
+(1834)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op30_1.mid">No. 1</a></td>
+<td class="midi">Andante espressivo</td>
+<td class="midi" nowrap>4:19</td>
+<td class="midi" nowrap>2014-04-03</td>
+<td class="midi" nowrap>19 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op30_1_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=465fa554396c2279526d4ff5ccddca61&amp;file=mendel_op30_1.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op30_1.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op30_2.mid">No. 2</a></td>
+<td class="midi">Allegro di molto</td>
+<td class="midi" nowrap>2:04</td>
+<td class="midi" nowrap>2015-05-01</td>
+<td class="midi" nowrap>16 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op30_2_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=28d15b23a919ad23e60d36e5a1e4a0f9&amp;file=mendel_op30_2.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op30_2.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op30_3.mid">No. 3</a></td>
+<td class="midi">Adagio non troppo</td>
+<td class="midi" nowrap>1:44</td>
+<td class="midi" nowrap>2015-06-01</td>
+<td class="midi" nowrap>5 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op30_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=4c04a112fb365858331ca78e584c965c&amp;file=mendel_op30_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op30_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op30_4.mid">No. 4</a></td>
+<td class="midi">Agitato e con fuoco</td>
+<td class="midi" nowrap>2:40</td>
+<td class="midi" nowrap>2015-07-01</td>
+<td class="midi" nowrap>27 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op30_4_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=5dc407e5458a4d56cee388a0e9ca7fbe&amp;file=mendel_op30_4.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op30_4.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op30_5.mid">No. 5</a></td>
+<td class="midi">Andante grazioso</td>
+<td class="midi" nowrap>1:53</td>
+<td class="midi" nowrap>2015-08-01</td>
+<td class="midi" nowrap>13 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op30_5_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=d0848e18073440e2065e40b3e2e0e350&amp;file=mendel_op30_5.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op30_5.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Songs without Words Book 4, Opus 53
+(1841)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op53_5.mid">No. 5 - Folk song</a></td>
+<td class="midi">Allegro con fuoco</td>
+<td class="midi" nowrap>2:35</td>
+<td class="midi" nowrap>2014-04-03</td>
+<td class="midi" nowrap>17 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op53_5_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=3c51a1ccdbf5c87c33b12ca81616e39a&amp;file=mendel_op53_5.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op53_5.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><h2>Songs without Words Book 5, Opus 62
+(1844)
+</h2>
+<table class="midi"><tr class="midi"><th class="midi" align="left">Part</th>
+<th class="midi" align="left">Tempo</th>
+<th class="midi" align="left">Duration</th>
+<th class="midi" align="left">Date</th>
+<th class="midi" align="left">Size</th>
+<th class="midi" align="left">MIDI<br>Format 0</th>
+<th class="midi" align="left">MP3</th>
+<th class="midi" align="left">OGG</th>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op62_3.mid">No. 3 - Funeral march</a></td>
+<td class="midi">Andante maestoso</td>
+<td class="midi" nowrap>3:06</td>
+<td class="midi" nowrap>2014-04-03</td>
+<td class="midi" nowrap>9 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op62_3_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=032185d9f9a7f1a45c17618ab1b714d5&amp;file=mendel_op62_3.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op62_3.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op62_4.mid">No. 4 - Morning Song</a></td>
+<td class="midi">Allegro con anima</td>
+<td class="midi" nowrap>1:18</td>
+<td class="midi" nowrap>2014-04-03</td>
+<td class="midi" nowrap>8 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op62_4_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=11ce49322c0be22dc814889360a426d2&amp;file=mendel_op62_4.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op62_4.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+<tr class="midi"><td class="midi"><a href="midis/mendelssohn/mendel_op62_5.mid">No. 5 - Venetian Gondola Song</a></td>
+<td class="midi">Andante con moto</td>
+<td class="midi" nowrap>2:39</td>
+<td class="midi" nowrap>2014-04-03</td>
+<td class="midi" nowrap>10 KB</td>
+<td class="midi"><a class="navi" href="midis/mendelssohn/mendel_op62_5_format0.mid">♫</a></td>
+<td class="midi">
+<a href="mp3_link.php?id=f168c1ebef4f1520fd27f60cb8e25cfc&amp;file=mendel_op62_5.mp3">
+<img alt="MP3" style="border-width:0" src="graphik/Loudspeaker.png"/>
+</a></td>
+<td class="midi"><a href="ogg/mendelssohn/mendel_op62_5.ogg"><img alt="OGG" style="border-width:0" src="graphik/Loudspeaker.png"></a></td>
+</tr>
+</table><p><a href="zip/mendelssohn.zip">Mendelssohn
+  as ZIP File</a><br><a href="midisearch.php">Search for MIDI files</a><br>
+</p>
+<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/de/deed.en"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/de/88x31.png"></a>
+<br>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+<license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/de/"/>
+</Work>
+</rdf:RDF>
+-->
+<br><br><hr><div class="signatur"><a href="midicoll.htm">Main page</a>
+|
+<a href="news.htm">News</a>
+|
+<a href="contact.htm">Contact</a>
+|
+<a href="guests.htm">Guestbook</a>
+|
+<a href="links.htm">Links</a>
+|
+<a href="search.htm">Search</a>
+|
+<a href="indeks.htm">Index</a>
+|
+<a href="sitemap.htm">Sitemap</a><br><br>Copyright © 1996-2016 by Bernd Krueger<br>
+
+Home:
+<a href="http://www.piano-midi.de">http://www.piano-midi.de</a><br></div>
+
+
+No connection
+Selection of database failed
+insert failed
+
+</td><td valign="top" align="left" nowrap width="140"><div class="navileft"><br><strong>
+   Other languages
+ </strong><a href="mendelssohn_d.htm" class="
+   navi
+   ">
+  Deutsch
+ </a><br><a href="mendelssohn_es.htm" class="
+   navi
+   ">
+  Español
+ </a><br><a href="mendelssohn_fr.htm" class="
+   navi
+   ">
+  Français
+ </a><br>---------<br><br><a href="impressum.htm" class="
+   navi
+   ">Imprint</a><br><a href="copy.htm" class="
+   navi
+   ">Copyright</a><br><br></div><br><div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-2741754398486474";
+google_ad_width = 125;
+google_ad_height = 125;
+google_ad_format = "125x125_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+</td></tr></table></body></html>

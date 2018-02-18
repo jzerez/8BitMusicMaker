@@ -20,8 +20,9 @@ def octave(pitch):
 #offset to put the ascii characters in a good range
 ascii_offset = 15
 output = open("input.txt", 'w')
+
 for files in os.listdir("Training-CSV"):
-    if os.stat(files).st_size > 0:
+    if os.stat("Training-CSV/" + files).st_size >= 200000:
         #output csv. Should change to one huge txt file
         csv_file = open("Training-CSV/" + files)
         csv_py = csv.reader(csv_file)

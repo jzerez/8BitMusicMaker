@@ -14,33 +14,41 @@ scrape MIDI files from them, and convert said files into CSV files.
 '''
 
 if len(sys.argv) < 2:
-    home_urls = ["http://www.midiworld.com/search/?q=dance",
-                "http://www.midiworld.com/search/2/?q=dance",
-                "http://www.midiworld.com/search/3/?q=dance",
-                "http://www.midiworld.com/search/4/?q=dance",
-                "http://www.midiworld.com/search/5/?q=dance",
-                "http://www.midiworld.com/search/6/?q=dance",
-                "http://www.midiworld.com/search/7/?q=dance",
-                "http://www.midiworld.com/search/8/?q=dance"]
+    home_urls = ["http://www.piano-e-competition.com/midi_2002.asp",
+                "http://www.piano-e-competition.com/midi_2004.asp",
+                "http://www.piano-e-competition.com/midi_2006.asp",
+                "http://www.piano-e-competition.com/midi_2008.asp",
+                "http://www.piano-e-competition.com/midi_2009.asp",
+                "http://www.piano-e-competition.com/midi_2011.asp",
+                ]
+
 else:
     home_urls = sys.argv[1:]
 
 
 num_songs = 0
 #Sets basis URL
+base_url = "http://www.piano-e-competition.com/"
 for home_url in home_urls:
-    html = urllib2.urlopen(home_url)
-    #puts html code into BeautifulSoup object
+    try:
+        html = urllib2.urlopen(home_url)
+        #puts html code into BeautifulSoup object
+    except urllib2.HTTPError:
+        print("file error")
+        continue
     soup = BeautifulSoup(html, "lxml")
 
     #finds all the links
     for link in soup.find_all('a'):
         url = link.get('href')
+        print(url)
 
         if url != None:
+            url = base_url + url
+            print(url)
 
             #find all the midi files
-            if len(url.split('/')) > 3 and url.split("/")[3] == "download":
+            if len(url.split('.')) > 3 and url.split('.')[-1] == "MID":
                 print(url)
                 num_songs += 1
 
@@ -52,7 +60,11 @@ for home_url in home_urls:
                 if (csv_name not in os.listdir("Training-CSV")) :
                     print(url)
                     #download the midi file
-                    urllib2.urlretrieve(file_url, midi_name)
+                    try:
+                        urllib2.urlretrieve(file_url, midi_name)
+                    except:
+                        continue
+
                     #convert to csv using midi csv
                     subprocess.call(["midicsv-1.1\Midicsv.exe", midi_name, csv_name])
                     #moves the midi file and new csv file to proper folders. Avoides git memory issues
