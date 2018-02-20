@@ -11,7 +11,7 @@ CSV files, ready to be converted back into MIDI
 '''
 
 
-prefix = '8bit_'
+prefix = 'classical_'
 txt_file = open("output.txt", "r")
 #output csv. Should change to one huge txt file
 song_number = 0
@@ -56,7 +56,7 @@ for song in songs:
     write_to_csv(1, 0, command = ' End_track')
     write_to_csv(2, 0, command = ' Start_track')
     write_to_csv(2, 0, command = ' MIDI_port')
-    writer.writerow([2, 0, ' Program_c', 0, 81])
+    writer.writerow([2, 0, ' Program_c', 0, 1])
 
     for line in lines:
         #array to keep track of which notes are currently on
